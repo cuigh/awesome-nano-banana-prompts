@@ -47,3 +47,48 @@ Welcome to `awesome-nano-banana-prompts`! Nano Banana is a state-of-the-art imag
 ```
 turn my pet into a plastic action figure next to its packaging
 ```
+
+#### Case 2: [Pet to Plastic Action Figure](https://x.com/GeminiApp/status/1965842484854186159) (by [@GeminiApp](https://x.com/GeminiApp))
+
+| Input | Output |
+|:---:|:---:|
+| <img src="images/case1_1_original.webp" width="200" alt="case1_1_original"> | <img src="images/case1_1_result.webp" width="200" alt="case1_1_result"> |
+| <img src="images/case1_2_original.webp" width="200" alt="case1_2_original"> | <img src="images/case1_2_result.webp" width="200" alt="case1_2_result"> |
+
+**input:** Need to upload a reference image
+
+**prompt:**
+
+```
+turn my pet into a plastic action figure next to its packaging
+```
+
+#### Case 3: [Pet to Plastic Action Figure](https://x.com/GeminiApp/status/1965842484854186159) (by [@GeminiApp](https://x.com/GeminiApp))
+
+| Input | Output |
+|:---:|:---:|
+| <img src="images/case1_1_original.webp" width="200" alt="case1_1_original"> | <img src="images/case1_1_result.webp" width="200" alt="case1_1_result"> |
+| <img src="images/case1_2_original.webp" width="200" alt="case1_2_original"> | <img src="images/case1_2_result.webp" width="200" alt="case1_2_result"> |
+
+**input:** Need to upload a reference image
+
+**prompt:**
+
+```
+turn my pet into a plastic action figure next to its packaging
+```
+
+#### Case 4: [Pet to Plastic Action Figure](https://x.com/GeminiApp/status/1965842484854186159) (by [@GeminiApp](https://x.com/GeminiApp))
+
+| Input | Output |
+|:---:|:---:|
+| <img src="images/case1_1_original.webp" width="200" alt="case1_1_original"> | <img src="images/case1_1_result.webp" width="200" alt="case1_1_result"> |
+| <img src="images/case1_2_original.webp" width="200" alt="case1_2_original"> | <img src="images/case1_2_result.webp" width="200" alt="case1_2_result"> |
+
+**input:** Need to upload a reference image
+
+**prompt:**
+
+```
+turn my pet into a plastic action figure next to its packaging
+```
