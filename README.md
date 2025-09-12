@@ -29,7 +29,7 @@ Welcome to `awesome-nano-banana-prompts`! Nano Banana is a state-of-the-art imag
   - [Menu](#menu)
     - [Directory](#directory)
     - [Cases](#cases)
-      - [Case 1: Pet to Plastic Action Figure][Case 1: Pet to Plastic Action Figure](#case-1-pet-to-plastic-action-figure-by-geminiapp)
+      - [Case 1: Pet to Plastic Action Figure](#case-1-pet-to-plastic-action-figure-by-geminiapp)
 
 ### Cases
 
