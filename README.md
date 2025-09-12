@@ -32,6 +32,7 @@ Welcome to `awesome-nano-banana-prompts`! Nano Banana is a state-of-the-art imag
       - [Case 1: Pet to Plastic Action Figure](#case-1-pet-to-plastic-action-figure-by-geminiapp)
       - [Case 2: 16-Bit Platform Video Game](#case-2-16-bit-platform-video-game-by-priya_0608)
       - [Case 3: High-End Adorable Product Ads](#case-3-high-end-adorable-product-ads-by-azed_ai)
+      - [Case 4: Photorealistic 3D Rendering](#case-4-photorealistic-3d-rendering-by-tetumemo)
 
 ### Cases
 
@@ -78,4 +79,19 @@ First, ask me to upload an image of myself. Then reimagine me as a 16-Bit Video 
 
 ```
 A high-resolution advertising photograph of a realistic, miniature [PRODUCT] held delicately between a person's thumb and index finger.  clean and white background, studio lighting, soft shadows. The hand is well-groomed, natural skin tone, and positioned to highlight the product’s shape and details. The product appears extremely small but hyper-detailed and brand-accurate, centered in the frame with a shallow depth of field. Emulates luxury product photography and minimalist commercial style.
+```
+
+#### Case 4: [Photorealistic 3D Rendering](https://x.com/tetumemo/status/1965660428765417721) (by [@tetumemo](https://x.com/tetumemo))
+
+| Input | Output |
+|:---:|:---:|
+| <img src="images/case4_1_original.webp" width="200" alt="case4_1_original"> | <img src="images/case4_1_result.webp" width="200" alt="case4_1_result"> |
+| <img src="images/case4_2_original.webp" width="200" alt="case4_2_original"> | <img src="images/case4_2_result.webp" width="200" alt="case4_2_result"> |
+
+**input:** Need to upload a reference image
+
+**prompt:**
+
+```
+Please convert all of this house's floor plans into a photorealistic 3D rendering in isometric projection while keeping the overhead view, and generate the image.
 ```
