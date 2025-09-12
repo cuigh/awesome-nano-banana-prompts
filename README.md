@@ -23,12 +23,16 @@ Welcome to `awesome-nano-banana-prompts`! Nano Banana is a state-of-the-art imag
 ## Menu
 
 ### Directory
-
-- [Case 1: Pet to Plastic Action Figure (by @GeminiApp)](#case-1-pet-to-plastic-action-figureby-GeminiApp)
+- [Awesome Nano Banana Prompts](#awesome-nano-banana-prompts)
+  - [Introduction 🍌](#introduction-)
+  - [Mission ✨](#mission-)
+  - [Menu](#menu)
+    - [Directory](#directory)
+    - [Cases](#cases)
+      - [Case 1: Pet to Plastic Action Figure (by @GeminiApp)](#case-1-pet-to-plastic-action-figureby-GeminiApp)
 
 ### Cases
 
-<!-- case1 -->
 #### Case 1: [Pet to Plastic Action Figure](https://x.com/GeminiApp/status/1965842484854186159) (by [@GeminiApp](https://x.com/GeminiApp))
 
 | Input | Output |
