@@ -30,6 +30,7 @@ Welcome to `awesome-nano-banana-prompts`! Nano Banana is a state-of-the-art imag
     - [Directory](#directory)
     - [Cases](#cases)
       - [Case 1: Pet to Plastic Action Figure](#case-1-pet-to-plastic-action-figure-by-geminiapp)
+      - [Case 2: 16-bit Platform Video Game](#case-2-16-bit-platform-video-game-by-priya_0608)
 
 ### Cases
 
@@ -48,47 +49,17 @@ Welcome to `awesome-nano-banana-prompts`! Nano Banana is a state-of-the-art imag
 turn my pet into a plastic action figure next to its packaging
 ```
 
-#### Case 2: [Pet2 to Plastic Action Figure](https://x.com/GeminiApp/status/1965842484854186159) (by [@GeminiApp](https://x.com/GeminiApp))
+#### Case 2: [16-bit Platform Video Game](https://x.com/Priya_0608/status/1962605608642699308) (by [@Priya_0608](https://x.com/Priya_0608))
 
 | Input | Output |
 |:---:|:---:|
-| <img src="images/case1_1_original.webp" width="200" alt="case1_1_original"> | <img src="images/case1_1_result.webp" width="200" alt="case1_1_result"> |
-| <img src="images/case1_2_original.webp" width="200" alt="case1_2_original"> | <img src="images/case1_2_result.webp" width="200" alt="case1_2_result"> |
+| <img src="images/case2_1_original.webp" width="200" alt="case2_1_original"> | <img src="images/case2_1_result.webp" width="200" alt="case2_1_result"> |
+| <img src="images/case2_2_original.webp" width="200" alt="case2_2_original"> | <img src="images/case2_2_result.webp" width="200" alt="case2_2_result"> |
 
 **input:** Need to upload a reference image
 
 **prompt:**
 
 ```
-turn my pet into a plastic action figure next to its packaging
-```
-
-#### Case 3: [Pet3 to Plastic Action Figure](https://x.com/GeminiApp/status/1965842484854186159) (by [@GeminiApp](https://x.com/GeminiApp))
-
-| Input | Output |
-|:---:|:---:|
-| <img src="images/case1_1_original.webp" width="200" alt="case1_1_original"> | <img src="images/case1_1_result.webp" width="200" alt="case1_1_result"> |
-| <img src="images/case1_2_original.webp" width="200" alt="case1_2_original"> | <img src="images/case1_2_result.webp" width="200" alt="case1_2_result"> |
-
-**input:** Need to upload a reference image
-
-**prompt:**
-
-```
-turn my pet into a plastic action figure next to its packaging
-```
-
-#### Case 4: [Pet4 to Plastic Action Figure](https://x.com/GeminiApp/status/1965842484854186159) (by [@GeminiApp](https://x.com/GeminiApp))
-
-| Input | Output |
-|:---:|:---:|
-| <img src="images/case1_1_original.webp" width="200" alt="case1_1_original"> | <img src="images/case1_1_result.webp" width="200" alt="case1_1_result"> |
-| <img src="images/case1_2_original.webp" width="200" alt="case1_2_original"> | <img src="images/case1_2_result.webp" width="200" alt="case1_2_result"> |
-
-**input:** Need to upload a reference image
-
-**prompt:**
-
-```
-turn my pet into a plastic action figure next to its packaging
+First, ask me to upload an image of myself. Then reimagine me as a 16-Bit Video Game character and put me in a 2D 16-bit platform video game.
 ```
