@@ -29,7 +29,7 @@ Welcome to `awesome-nano-banana-prompts`! Nano Banana is a state-of-the-art imag
   - [Menu](#menu)
     - [Directory](#directory)
     - [Cases](#cases)
-      - [Case 1: Pet to Plastic Action Figure (by @GeminiApp)](#case-1-pet-to-plastic-action-figureby-GeminiApp)
+      - [Case 1: Pet to Plastic Action Figure][Case 1: Pet to Plastic Action Figure](#case-1-pet-to-plastic-action-figure-by-geminiapp)
 
 ### Cases
 
@@ -48,7 +48,7 @@ Welcome to `awesome-nano-banana-prompts`! Nano Banana is a state-of-the-art imag
 turn my pet into a plastic action figure next to its packaging
 ```
 
-#### Case 2: [Pet to Plastic Action Figure](https://x.com/GeminiApp/status/1965842484854186159) (by [@GeminiApp](https://x.com/GeminiApp))
+#### Case 2: [Pet2 to Plastic Action Figure](https://x.com/GeminiApp/status/1965842484854186159) (by [@GeminiApp](https://x.com/GeminiApp))
 
 | Input | Output |
 |:---:|:---:|
@@ -63,7 +63,7 @@ turn my pet into a plastic action figure next to its packaging
 turn my pet into a plastic action figure next to its packaging
 ```
 
-#### Case 3: [Pet to Plastic Action Figure](https://x.com/GeminiApp/status/1965842484854186159) (by [@GeminiApp](https://x.com/GeminiApp))
+#### Case 3: [Pet3 to Plastic Action Figure](https://x.com/GeminiApp/status/1965842484854186159) (by [@GeminiApp](https://x.com/GeminiApp))
 
 | Input | Output |
 |:---:|:---:|
@@ -78,7 +78,7 @@ turn my pet into a plastic action figure next to its packaging
 turn my pet into a plastic action figure next to its packaging
 ```
 
-#### Case 4: [Pet to Plastic Action Figure](https://x.com/GeminiApp/status/1965842484854186159) (by [@GeminiApp](https://x.com/GeminiApp))
+#### Case 4: [Pet4 to Plastic Action Figure](https://x.com/GeminiApp/status/1965842484854186159) (by [@GeminiApp](https://x.com/GeminiApp))
 
 | Input | Output |
 |:---:|:---:|
