@@ -27,12 +27,44 @@ Welcome to `awesome-nano-banana-prompts`! Nano Banana is a state-of-the-art imag
   - [Mission ✨](#mission-)
   - [Directory](#directory)
   - [Cases](#cases)
+    - [Case 6: Photo of Two Characters](#case-6-photo-of-two-characters-by-zho_zho_zho)
+    - [Case 5: Designated Reference Pose for Character](#case-5-designated-reference-pose-for-character-by-zho_zho_zho)
     - [Case 4: Photorealistic 3D Rendering](#case-4-photorealistic-3d-rendering-by-tetumemo)
     - [Case 3: High-End Adorable Product Ads](#case-3-high-end-adorable-product-ads-by-azed_ai)
     - [Case 2: 16-Bit Platform Video Game](#case-2-16-bit-platform-video-game-by-priya_0608)
     - [Case 1: Pet to Plastic Action Figure](#case-1-pet-to-plastic-action-figure-by-geminiapp)
       
 ## Cases
+
+### Case 6: [Photo of Two Characters](https://x.com/ZHO_ZHO_ZHO/status/1967521065883856984) (by [@ZHO_ZHO_ZHO](https://x.com/ZHO_ZHO_ZHO))
+
+| Input | Output |
+|:---:|:---:|
+| <img src="images/case6_1_original.webp" width="200" alt="case6_1_original"> | <img src="images/case6_1_result.webp" width="200" alt="case6_1_result"> |
+| <img src="images/case6_2_original.webp" width="200" alt="case6_2_original"> | <img src="images/case6_2_result.webp" width="200" alt="case6_2_result"> |
+
+**input:** Need to upload two reference image
+
+**prompt:**
+
+```
+Generate a close-up Polaroid photo of two people, keeping the faces consistent. The photo has a slight blur effect and is taken indoors with a flash, just like a party, with the two people keeping an intimate and funny pose.
+```
+
+### Case 5: [Designated Reference Pose for Character](https://x.com/ZHO_ZHO_ZHO/status/1961024423596872184) (by [@ZHO_ZHO_ZHO](https://x.com/ZHO_ZHO_ZHO))
+
+| Input | Output |
+|:---:|:---:|
+| <img src="images/case5_1_original.webp" width="200" alt="case5_1_original"> | <img src="images/case5_1_result.webp" width="200" alt="case5_1_result"> |
+| <img src="images/case5_2_original.webp" width="200" alt="case5_2_original"> | <img src="images/case5_2_result.webp" width="200" alt="case5_2_result"> |
+
+**input:** Need to upload two reference image
+
+**prompt:**
+
+```
+Change the pose of the person in Picture 1 to that in Picture 2, and shoot in a professional studio.
+```
 
 ### Case 4: [Photorealistic 3D Rendering](https://x.com/tetumemo/status/1965660428765417721) (by [@tetumemo](https://x.com/tetumemo))
 
