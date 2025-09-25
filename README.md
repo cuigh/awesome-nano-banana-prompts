@@ -27,6 +27,10 @@ Welcome to `awesome-nano-banana-prompts`! Nano Banana is a state-of-the-art imag
   - [Mission ✨](#mission-)
   - [Directory](#directory)
   - [Cases](#cases)
+    - [Case 10: Train Station Movie Poster](#case-10-train-station-movie-poster-by-ai_kei75)
+    - [Case 9: Comic Convention Booth](#case-9-comic-convention-booth-by-tokyo_valentine)
+    - [Case 8: Manga Style Conversion](#case-8-manga-style-conversion-by-nobisiro_2023)
+    - [Case 7: Character Clothing Change](#case-7-character-clothing-change-by-skirano)
     - [Case 6: Photo of Two Characters](#case-6-photo-of-two-characters-by-zho_zho_zho)
     - [Case 5: Designated Reference Pose for Character](#case-5-designated-reference-pose-for-character-by-zho_zho_zho)
     - [Case 4: Photorealistic 3D Rendering](#case-4-photorealistic-3d-rendering-by-tetumemo)
@@ -35,6 +39,104 @@ Welcome to `awesome-nano-banana-prompts`! Nano Banana is a state-of-the-art imag
     - [Case 1: Pet to Plastic Action Figure](#case-1-pet-to-plastic-action-figure-by-geminiapp)
       
 ## Cases
+
+
+
+### Case 10: [Train Station Movie Poster](https://x.com/AI_Kei75/status/1967498630467625127) (by [@AI_Kei75](https://x.com/AI_Kei75))
+
+| Input | Output |
+|:---:|:---:|
+| <img src="images/case10_1_original.webp" width="200" alt="case10_1_original"> | <img src="images/case10_1_result.webp" width="200" alt="case10_1_result"> |
+
+**input:** Need to upload reference image
+
+**prompt:**
+
+```
+Create a movie poster using the original image. The genre of the movie will be determined based on the atmosphere of the original image.
+Regardless of whether the original image is anime or live-action, the style and character design of the original image will be maintained as perfectly as possible. However, poses and expressions may be changed to match the poster design. Other people and objects may also be added at this time.
+The final generated image will be photorealistic. This does not apply to the poster design, as it will be based on the original image.
+The scenery of the underground passage of a Japanese station where the poster is posted will be recreated in a realistic image. People passing through the underground passage will be added.
+The reflection of the poster is angled to make it look more realistic.
+```
+
+### Case 9: [Comic Convention Booth](https://x.com/tokyo_Valentine/status/1967174466636792287) (by [@tokyo_Valentine](https://x.com/tokyo_Valentine))
+
+| Input | Output |
+|:---:|:---:|
+| <img src="images/case9_1_original.webp" width="200" alt="case9_1_original"> | <img src="images/case9_1_result.webp" width="200" alt="case9_1_result"> |
+
+**input:** Need to upload reference image
+
+**prompt:**
+
+```
+Erase the background and replace the characters with the following:
+
+Cosplayers and Character Goods
+
+Character/Motif:
+Character goods based on the illustration
+
+Hairstyle, Eyes, and Appearance:
+(Focus on merchandise, not the character itself.)
+
+Main Character: A cosplayer is holding a figurine in the center of the screen.
+
+Location:
+Comic Market (a doujinshi sales event).
+A spacious booth is filled with merchandise lined up on tables and shelves. The atmosphere is filled with excitement and anticipation.
+
+Merchandise Lineup:
+• A large, approximately 100cm figure is displayed in the center of the booth, creating an eye-catching display.
+• The character is displayed on an 80-inch LCD panel.
+• Acrylic Stands
+• Chibi Figures (Deformed)
+• Body Pillows (Large, Full-Length Character Print)
+• Jigsaw Puzzles (Using Character Artwork)
+• Stationery (Notebooks, Pens, Clear Files, etc.)
+• Desk Pads
+• Plush Toys (Deformed)
+Exhibition/Display:
+• Goods neatly arranged throughout the booth, creating a unified look.
+• Utilizing desks and shelves reminiscent of doujinshi sales events, the layout encourages fans to pick up items.
+• With the energy of the visitors as a backdrop, the venue is presented as a special "fan sanctuary."
+Overall Tone:
+A dreamlike sales space.
+While emphasizing cuteness and pop, the space evokes the unique enthusiasm of doujin events and the feeling of a "sanctuary for fan activities."
+Swarms of people.
+
+Image Quality:
+Photorealistic, 4K (4000px x 3000px)
+```
+
+### Case 8: [Manga Style Conversion](https://x.com/nobisiro_2023/status/1961231347986698371) (by [@nobisiro_2023](https://x.com/nobisiro_2023))
+
+| Input | Output |
+|:---:|:---:|
+| <img src="images/case8_1_original.webp" width="200" alt="case8_1_original"> | <img src="images/case8_1_result.webp" width="200" alt="case8_1_result"> |
+
+**input:** Need to upload reference image
+
+**prompt:**
+
+```
+Convert the input photo into a black-and-white manga-style line drawing.
+```
+
+### Case 7: [Character Clothing Change](https://x.com/skirano/status/1960343968320737397) (by [@skirano](https://x.com/skirano))
+
+| Input | Output |
+|:---:|:---:|
+| <img src="images/case7_1_original.webp" width="200" alt="case7_1_original"> | <img src="images/case7_1_result.webp" width="200" alt="case7_1_result"> |
+
+**input:**Need to upload person image and clothing image
+
+**prompt:**
+
+```
+Replace the person's clothing in the input image with the target clothing shown in the reference image. Keep the person's pose, facial expression, background, and overall realism unchanged. Make the new outfit look natural, well-fitted, and consistent with lighting and shadows. Do not alter the person's identity or the environment — only change the clothes.
+```
 
 ### Case 6: [Photo of Two Characters](https://x.com/ZHO_ZHO_ZHO/status/1967521065883856984) (by [@ZHO_ZHO_ZHO](https://x.com/ZHO_ZHO_ZHO))
 
