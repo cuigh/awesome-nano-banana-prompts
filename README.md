@@ -1,6 +1,6 @@
 <div align="center">
 
-# Awesome Nano Banana Prompts
+# Awesome Nano Banana Pro Prompts
 
 ![Awesome](https://awesome.re/badge.svg)
 
@@ -8,25 +8,31 @@
 
 ## Introduction 🍌
 
-A curated collection of creative prompts for Nano Banana (Gemini 2.5 Flash Image), designed to inspire your imagination and unlock the full potential of AI image editing and generation
+A curated collection of creative prompts for **Nano Banana Pro**, the advanced evolution of Google DeepMind's image generation technology. Designed to push the boundaries of imagination, this repository helps you unlock the full potential of AI-driven visual creation with professional-grade results.
 
-Welcome to `awesome-nano-banana-prompts`! Nano Banana is a state-of-the-art image model from Google DeepMind, renowned for its powerful visual reasoning and multi-turn conversation capabilities that make image creation more intuitive and fun than ever before. This repository aims to collect and share high-quality prompts that showcase the unique strengths of Nano Banana.
+Welcome to `awesome-nano-banana-pro-prompts`! Nano Banana Pro represents a leap forward in visual reasoning and multi-turn conversational image editing. Whether you are a designer, artist, or enthusiast, these prompts are crafted to showcase the superior detail, coherence, and flexibility of the Pro model.
 
 ## Mission ✨
 
-*   **Inspire Creativity**: Provide a diverse range of prompt examples to help you break through creative blocks.
-*   **Save Time**: Offer ready-to-use prompts that you can adapt for your projects, enabling you to achieve high-quality results quickly.
-*   **Build a Community**: Create a hub for Nano Banana enthusiasts and creators to share their best ideas and learn from one another.
+* **Master Advanced Capabilities**: Provide complex and nuanced prompt examples to demonstrate the enhanced power of Nano Banana Pro.
+* **Accelerate Creation**: Offer production-ready prompts that streamline workflows and deliver high-fidelity results instantly.
+* **Empower the Community**: Foster a collaborative environment where creators can share professional techniques and inspire the next wave of AI art.
 
 ---
 
 ## Directory
 
-- [Awesome Nano Banana Prompts](#awesome-nano-banana-prompts)
+- [Awesome Nano Banana Pro Prompts](#awesome-nano-banana-pro-prompts)
   - [Introduction 🍌](#introduction-)
   - [Mission ✨](#mission-)
   - [Directory](#directory)
   - [Cases](#cases)
+    - [Case 16: Surreal Product Advertisement](#case-16-surreal-product-advertisement-by-aziz4ai)
+    - [Case 15: High-End Portrait Enhancement](#case-15-high-end-portrait-enhancement-by-halimalrasihi)
+    - [Case 14: Historical Photo Colorization](#case-14-historical-photo-colorization-by-codebypoonam)
+    - [Case 13: Chibi Style LINE Stickers](#case-13-chibi-style-line-stickers-by-0uhly2vack23204)
+    - [Case 12: Cinematic Editorial Portrait](#case-12-cinematic-editorial-portrait-by-john_my07)
+    - [Case 11: Basement Gym Floor Plan](#case-11-basement-gym-floor-plan-by-adamwathan)
     - [Case 10: Train Station Movie Poster](#case-10-train-station-movie-poster-by-ai_kei75)
     - [Case 9: Comic Convention Booth](#case-9-comic-convention-booth-by-tokyo_valentine)
     - [Case 8: Manga Style Conversion](#case-8-manga-style-conversion-by-nobisiro_2023)
@@ -40,7 +46,93 @@ Welcome to `awesome-nano-banana-prompts`! Nano Banana is a state-of-the-art imag
       
 ## Cases
 
+### Case 16: [Surreal Product Advertisement](https://x.com/aziz4ai/status/1991584744375779672) (by [@aziz4ai](https://x.com/aziz4ai))
 
+| Input | Output |
+|:---:|:---:|
+| <img src="images/case16_1_original.webp" width="200" alt="case16_1_original"> | <img src="images/case16_1_result.webp" width="200" alt="case16_1_result"> |
+
+**input:** Need to upload a reference image
+
+**prompt:**
+
+```
+Design a creative, realistic, and surreal advertisement for the product [Product Name] of the category [Product Type]. The product appears as a hero element in the center of the frame, visually formed in a clever way that automatically reflects the brand's spirit and identity.
+A clean background consistent with brand colors, soft cinematic lighting, hyper-realistic textures, precise shadows, and a sophisticated and excellent visual composition.
+Add an innovative surreal touch directly related to the nature of the product without exaggeration.
+Place the product logo elegantly and integrated within the composition, with a short Arabic slogan of three words automatically generated to suit the product type.
+Very high quality, precise composition, strong realism, luxury style, with no additional text other than the logo and the slogan.
+```
+
+### Case 15: [High-End Portrait Enhancement](https://x.com/HalimAlrasihi/status/1991581963275342330) (by [@HalimAlrasihi](https://x.com/HalimAlrasihi))
+
+| Input | Output |
+|:---:|:---:|
+| <img src="images/case15_1_original.webp" width="200" alt="case15_1_original"> | <img src="images/case15_1_result.webp" width="200" alt="case15_1_result"> |
+
+**input:** Need to upload a reference image
+
+**prompt:**
+
+```
+Enhance and upscale the image while keeping composition and colors identical. Eliminate blur and give the skin a lifelike, detailed look: clear pores, faint fine lines, light freckles, and realistic transitions between shadow and highlight. Maintain the tone of the light and the background, refine edge sharpness around eyes, lashes, lips and hair strands so the portrait appears like a high-end beauty photograph with natural, unplastic skin.
+```
+
+### Case 14: [Historical Photo Colorization](https://x.com/CodeByPoonam/status/1991787621916487698) (by [@CodeByPoonam](https://x.com/CodeByPoonam))
+
+| Input | Output |
+|:---:|:---:|
+| <img src="images/case14_1_original.webp" width="200" alt="case14_1_original"> | <img src="images/case14_1_result.webp" width="200" alt="case14_1_result"> |
+
+**input:** Need to upload a reference image
+
+**prompt:**
+
+```
+Colorize this old black-and-white photograph with natural, true-to-life colors. Preserve the original facial features, textures, lighting, shadows, and fine details. Restore any faded or damaged areas without changing the people, clothing, background, or composition. Maintain the sharpness and overall quality of the original image. Add realistic skin tones, accurate clothing colors, and natural background colors while keeping everything historically appropriate. Avoid adding or removing any elements.
+```
+
+### Case 13: [Chibi Style LINE Stickers](https://x.com/0uhly2VacK23204/status/1991780261068226776) (by [@0uhly2VacK23204](https://x.com/0uhly2VacK23204))
+
+| Input | Output |
+|:---:|:---:|
+| <img src="images/case13_1_original.webp" width="200" alt="case13_1_original"> | <img src="images/case13_1_result.webp" width="200" alt="case13_1_result"> |
+
+**input:** Need to upload a reference image
+
+**prompt:**
+
+```
+Make the character in the image chibi style.  Generate 12 kinds of LINE stickers featuring various expressions, poses, and text.
+```
+
+### Case 12: [Cinematic Editorial Portrait](https://x.com/john_my07/status/1992231812878487620) (by [@john_my07](https://x.com/john_my07))
+
+| Input | Output |
+|:---:|:---:|
+| <img src="images/case12_1_original.webp" width="200" alt="case12_1_original"> | <img src="images/case12_1_result.webp" width="200" alt="case12_1_result"> |
+
+**input:** Need to upload a reference image
+
+**prompt:**
+
+```
+A cinematic close-up editorial portrait of a slim young adult man with the user’s face as the main subject, wearing a sleek black suit, dark blazer, and black turtleneck, , direct gaze with subtle smirk, seamless vivid orange studio background, 85mm lens, f/4, ISO 100, shutter 1/200s, cinematic dual-tone lighting with warm orange glow and cool blue rim highlights.
+```
+
+### Case 11: [Basement Gym Floor Plan](https://x.com/adamwathan/status/1992335982709055658) (by [@adamwathan](https://x.com/adamwathan))
+
+| Input | Output |
+|:---:|:---:|
+| <img src="images/case11_1_original.webp" width="200" alt="case11_1_original"> | <img src="images/case11_1_result.webp" width="200" alt="case11_1_result"> |
+
+**input:** Need to upload a reference image
+
+**prompt:**
+
+```
+generate an overhead floor plan layout style image of my basement gym
+```
 
 ### Case 10: [Train Station Movie Poster](https://x.com/AI_Kei75/status/1967498630467625127) (by [@AI_Kei75](https://x.com/AI_Kei75))
 
