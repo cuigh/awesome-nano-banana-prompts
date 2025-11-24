@@ -27,6 +27,15 @@ Welcome to `awesome-nano-banana-pro-prompts`! Nano Banana Pro represents a leap 
   - [Mission ✨](#mission-)
   - [Directory](#directory)
   - [Cases](#cases)
+    - [Case 25: Shoe Pattern Deconstruction](#case-25-shoe-pattern-deconstruction-by-linusekenstam)
+    - [Case 24: Isometric Street Schematic](#case-24-isometric-street-schematic-by-amirmushich)
+    - [Case 23: Real Person Transformation](#case-23-real-person-transformation-by-gizakdag)
+    - [Case 22: Car Girl Portrait](#case-22-car-girl-portrait-by-xmliisu)
+    - [Case 21: Recursive Artist Photography](#case-21-recursive-artist-photography-by-goodside)
+    - [Case 20: Four-Panel Portrait](#case-20-four-panel-portrait-by-ix00ai)
+    - [Case 19: Historical Style Evolution Grid](#case-19-historical-style-evolution-grid-by-blizaine)
+    - [Case 18: Spatiotemporal Event Recreation](#case-18-spatiotemporal-event-recreation-by-minchoi)
+    - [Case 17: Handwriting Math Solver](#case-17-handwriting-math-solver-by-minchoi)
     - [Case 16: Surreal Product Advertisement](#case-16-surreal-product-advertisement-by-aziz4ai)
     - [Case 15: High-End Portrait Enhancement](#case-15-high-end-portrait-enhancement-by-halimalrasihi)
     - [Case 14: Historical Photo Colorization](#case-14-historical-photo-colorization-by-codebypoonam)
@@ -45,6 +54,159 @@ Welcome to `awesome-nano-banana-pro-prompts`! Nano Banana Pro represents a leap 
     - [Case 1: Pet to Plastic Action Figure](#case-1-pet-to-plastic-action-figure-by-geminiapp)
       
 ## Cases
+
+### Case 25: [Shoe Pattern Deconstruction](https://x.com/LinusEkenstam/status/1992105428873056499) (by [@LinusEkenstam](https://x.com/LinusEkenstam))
+
+| Input | Output |
+|:---:|:---:|
+| <img src="images/case25_1_original.webp" width="200" alt="case25_1_original"> | <img src="images/case25_1_result.webp" width="200" alt="case25_1_result"> |
+
+**input:** Need to upload a reference image
+
+**prompt:**
+
+```
+Create an image of the different patterns that makes up this shoe. lay them out individually against a neutral surface.
+```
+
+### Case 24: [Isometric Street Schematic](https://x.com/AmirMushich/status/1992704354990907793) (by [@AmirMushich](https://x.com/AmirMushich))
+
+| Input | Output |
+|:---:|:---:|
+| <img src="images/case24_1_original.webp" width="200" alt="case24_1_original"> | <img src="images/case24_1_result.webp" width="200" alt="case24_1_result"> |
+
+**input:** Need to upload a reference image
+
+**prompt:**
+
+```
+Create a hand drawn isometric schematic diagram of this street.
+```
+
+### Case 23: [Real Person Transformation](https://x.com/gizakdag/status/1992518167441416230) (by [@gizakdag](https://x.com/gizakdag))
+
+| Input | Output |
+|:---:|:---:|
+| <img src="images/case23_1_original.webp" width="200" alt="case23_1_original"> | <img src="images/case23_1_result.webp" width="200" alt="case23_1_result"> |
+
+**input:** Need to upload a reference image
+
+**prompt:**
+
+```
+Turn it into a photo of a real person.
+```
+
+### Case 22: [Car Girl Portrait](https://x.com/xmliisu/status/1991846916586438678) (by [@xmliisu](https://x.com/xmliisu))
+
+| Result |
+|:---:|
+| <img src="images/case22_1_result.webp" width="200" alt="case22_1_result"> |
+
+**prompt:**
+
+```json
+{
+  "prompt_breakdown": {
+    "subject_parameters": {
+      "identity_constraint": "Preserve facial features from reference image",
+      "hair": "Long, ash-brown, textured wolf cut",
+      "expression": "Relaxed, dreamy, looking to the side"
+    },
+    "apparel": {
+      "top": "Sleeveless cropped black hoodie with high collar",
+      "bottom": "Faded black denim shorts, vintage distressed style, raw hem with frayed fibers",
+      "footwear": "Onitsuka Tiger Mexico 66 sneakers (Yellow and Black)"
+    },
+    "pose_and_action": {
+      "body_position": "Lying relaxed inside an open car trunk, legs bent and crossed",
+      "arms": "Right arm stretched upward, left hand holding a lit cigarette near mouth",
+      "action": "Smoking"
+    },
+    "environment_and_props": {
+      "primary_container": "Trunk of a bright yellow sports car",
+      "trunk_contents": "Transparent box, yellow bottle or black tube attached to the side",
+      "background": "Dark outdoor nighttime setting, faint building silhouette, partial wheel of another vehicle on the left"
+    },
+    "technical_specs": {
+      "angle": "High-angle shot (looking down)",
+      "lighting": "Hard direct flash (35mm analog style), dark ambient background",
+      "medium": "Flash photography, grainy film texture",
+      "atmosphere": "Edgy, mysterious, candid"
+    }
+  }
+}
+```
+
+### Case 21: [Recursive Artist Photography](https://x.com/goodside/status/1992038915881029641) (by [@goodside](https://x.com/goodside))
+
+| Result |
+|:---:|
+| <img src="images/case21_1_result.webp" width="200" alt="case21_1_result"> |
+
+**prompt:**
+
+```
+Amateur photograph from 1998 of a middle-aged artist copying an image by hand from a computer screen to an oil painting on stretched canvas, but the image is itself the photo of the artist painting the recursive image.
+```
+
+### Case 20: [Four-Panel Portrait](https://x.com/iX00AI/status/1992167312024310265) (by [@iX00AI](https://x.com/iX00AI))
+
+| Input | Output |
+|:---:|:---:|
+| <img src="images/case20_1_original.webp" width="200" alt="case20_1_original"> | <img src="images/case20_1_result.webp" width="200" alt="case20_1_result"> |
+
+**input:** Need to upload a reference image
+
+**prompt:**
+
+```
+Using the uploaded reference image, generate a four-panel composition (upper-left, upper-right, lower-left, lower-right).
+Keep the person’s face, hairstyle, and clothing exactly the same as in the uploaded image for all panels.
+Upper-left: A close-up of her face from a high angle, with her looking up with upward eyes.
+Upper-right: She raises one arm and stretches while yawning.
+Lower-left: An over-the-shoulder shot from behind her, showing her hands or what she is doing.
+Lower-right: She takes a selfie while sticking out her tongue.
+Realistic photo style, consistent identity, natural lighting.
+```
+
+### Case 19: [Historical Style Evolution Grid](https://x.com/blizaine/status/1992586719275954558) (by [@blizaine](https://x.com/blizaine))
+
+| Result |
+|:---:|
+| <img src="images/case19_1_result.webp" width="200" alt="case19_1_result"> |
+
+**prompt:**
+
+```
+Make a 4×4 grid starting with the 1880s. In each section, I should appear styled according to that decade (clothing, hairstyle, facial hair, accessories). Use colors, background, & film style accordingly.
+```
+
+### Case 18: [Spatiotemporal Event Recreation](https://x.com/minchoi/status/1992624653815222509) (by [@minchoi](https://x.com/minchoi))
+
+| Result |
+|:---:|
+| <img src="images/case18_1_result.webp" width="200" alt="case18_1_result"> |
+
+**prompt:**
+
+```
+Create an image at 31.7785° N, 35.2296° E, April 3, 33 CE, 15:00 hours.
+```
+
+### Case 17: [Handwriting Math Solver](https://x.com/minchoi/status/1992464134248812990) (by [@minchoi](https://x.com/minchoi))
+
+| Input | Output |
+|:---:|:---:|
+| <img src="images/case17_1_original.webp" width="200" alt="case17_1_original"> | <img src="images/case17_1_result.webp" width="200" alt="case17_1_result"> |
+
+**input:** Need to upload a reference image
+
+**prompt:**
+
+```
+Solve this on the notebook with same handwriting.
+```
 
 ### Case 16: [Surreal Product Advertisement](https://x.com/aziz4ai/status/1991584744375779672) (by [@aziz4ai](https://x.com/aziz4ai))
 
