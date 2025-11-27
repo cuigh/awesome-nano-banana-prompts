@@ -27,6 +27,13 @@ Welcome to `awesome-nano-banana-pro-prompts`! Nano Banana Pro represents a leap 
   - [Mission ✨](#mission-)
   - [Directory](#directory)
   - [Cases](#cases)
+    - [Case 32: Cinematic Classroom Portrait](#case-32-cinematic-classroom-portrait-by-uminimum_minimum4577)
+    - [Case 31: Cinematic Urban Motion](#case-31-cinematic-urban-motion-by-uminimum_minimum4577)
+    - [Case 30: Persian Carpet Portrait](#case-30-persian-carpet-portrait-by-uminimum_minimum4577)
+    - [Case 29: Character Product Showcase](#case-29-character-product-showcase-by-uspecialist-pause-869)
+    - [Case 28: Otaku Room Mirror Selfie](#case-28-otaku-room-mirror-selfie-by-iamemily2050)
+    - [Case 27: High-Fashion Editorial Portrait](#case-27-high-fashion-editorial-portrait-by-xmliisu)
+    - [Case 26: 4K Upscaling & Focus](#case-26-4k-upscaling--focus-by-alex_prompter)
     - [Case 25: Shoe Pattern Deconstruction](#case-25-shoe-pattern-deconstruction-by-linusekenstam)
     - [Case 24: Isometric Street Schematic](#case-24-isometric-street-schematic-by-amirmushich)
     - [Case 23: Real Person Transformation](#case-23-real-person-transformation-by-gizakdag)
@@ -54,6 +61,207 @@ Welcome to `awesome-nano-banana-pro-prompts`! Nano Banana Pro represents a leap 
     - [Case 1: Pet to Plastic Action Figure](#case-1-pet-to-plastic-action-figure-by-geminiapp)
       
 ## Cases
+
+### Case 32: [Cinematic Classroom Portrait](https://www.reddit.com/r/GenAI4all/comments/1p060gf/nano_banana_can_replace_half_your_editing_apps/) (by [u/Minimum_Minimum4577](https://www.reddit.com/user/Minimum_Minimum4577/))
+
+| Input | Output |
+|:---:|:---:|
+| <img src="images/case32_1_original.webp" width="200" alt="case32_1_original"> | <img src="images/case32_1_result.webp" width="200" alt="case32_1_result"> |
+
+**input:** Need to upload a reference image
+
+**prompt:**
+
+```
+Cinematic portrait of the man in the picture(preserve 100% facial details of this man), vintage classroom. The camera is shot from a distance, with a small section of the chair's back visible in front, as if the photographer was taking the portrait discreetly or in a quiet moment. Soft, gol-den-yellow lighting reflects from a small window or gap in the right wall, forming diagonal lines of light that fall directly on the man's face, creating a dramatic and emotional contrast. The man sits alone in a chair, his feet resting on the desk, with a relaxed and cool expression, as if lost in thought....
+```
+
+### Case 31: [Cinematic Urban Motion](https://www.reddit.com/r/GenAI4all/comments/1p060gf/nano_banana_can_replace_half_your_editing_apps/) (by [u/Minimum_Minimum4577](https://www.reddit.com/user/Minimum_Minimum4577/))
+
+| Input | Output |
+|:---:|:---:|
+| <img src="images/case31_1_original.webp" width="200" alt="case31_1_original"> | <img src="images/case31_1_result.webp" width="200" alt="case31_1_result"> |
+
+**input:** Need to upload a reference image
+
+**prompt:**
+
+```
+Cinematic street photography, stylish young woman in motion, urban environment, motion blur effect. Blurred pedestrians passing by, shallow depth of field, natural overcast lighting, soft pastel tones, editorial fashion photography, candid moment, dynamic movement, film aesthetic, muted colors.
+```
+
+### Case 30: [Persian Carpet Portrait](https://www.reddit.com/r/GenAI4all/comments/1p060gf/nano_banana_can_replace_half_your_editing_apps/) (by [u/Minimum_Minimum4577](https://www.reddit.com/user/Minimum_Minimum4577/))
+
+| Input | Output |
+|:---:|:---:|
+| <img src="images/case30_1_original.webp" width="200" alt="case30_1_original"> | <img src="images/case30_1_result.webp" width="200" alt="case30_1_result"> |
+
+**input:** Need to upload a reference image
+
+**prompt:**
+
+```
+A 4K ultra-realistic portrait of (reference), framed from the chest up (not full body), designed for Instagram story or profile picture. The background is a luxurious Persian red carpet design (only behind her, not on the ground). Sunlight shines from one side, casting natural warm light across half of his face. He is wearing an elegant dress inspired by Persian carpet patterns, with authentic Iranian colors and motifs. His facial features remain unchanged. He is holding a Persian cat in her hands.
+```
+
+### Case 29: [Character Product Showcase](https://www.reddit.com/r/singularity/comments/1p2qrtk/impressed_by_nano_banana_pro_edits_text_accuracy/) (by [u/Specialist-Pause-869](https://www.reddit.com/user/Specialist-Pause-869/))
+
+| Input | Output |
+|:---:|:---:|
+| <img src="images/case29_1_original.webp" width="200" alt="case29_1_person"> <img src="images/case29_2_original.webp" width="200" alt="case29_2_original"> | <img src="images/case29_1_result.webp" width="200" alt="case29_1_result"> |
+| <img src="images/case29_1_original.webp" width="200" alt="case29_2_person"> <img src="images/case29_3_original.webp" width="200" alt="case29_3_original"> | <img src="images/case29_2_result.webp" width="200" alt="case29_2_result"> |
+
+**input:** Need to upload a person image and a product image
+
+**prompt:**
+
+```
+The character is Showcasing this product.
+```
+
+### Case 28: [Otaku Room Mirror Selfie](https://x.com/IamEmily2050/status/1976431328280416520) (by [@IamEmily2050](https://x.com/IamEmily2050))
+
+| Output |
+|:---:|
+| <img src="images/case28_1_result.webp" width="200" alt="case28_1_result"> |
+
+**input:** Need to modify part of the prompt yourself
+
+**prompt:**
+
+```json
+{
+  "scene": "mirror_selfie_otaku_pc_corner_blue",
+
+  "subject": {
+    "gender_presentation": "female",
+    "age_bracket": "mid_20s",
+    "ethnicity": "East Asian. ",
+    "build": "slim with defined waist; natural proportions",
+    "skin_tone": "light neutral",
+    "hair": { "length": "very long", "style": "straight with slight wave ends", "color": "medium brown" },
+    "pose": {
+      "stance": "standing, slight contrapposto",
+      "right_hand": "holding phone in front of face (identity obscured)",
+      "left_arm": "relaxed alongside torso",
+      "torso": "subtle arch; midriff visible"
+    },
+    "wardrobe": {
+      "top": "baby-blue cropped knit cardigan, two buttons fastened; blue bralette subtly visible",
+      "bottom": "denim micro-shorts with blue satin ribbon bows at both hips",
+      "socks": "thigh-high blue-and-white horizontal stripes",
+      "accessories": { "phone_case": "blue cute mascot case" }
+    }
+  },
+
+  "environment": {
+    "description": "bedroom PC corner seen in a wall mirror",
+    "furnishings": [
+      "white desk",
+      "single monitor with pastel blue wallpaper (no readable text)",
+      "mechanical keyboard with white keycaps on blue desk mat",
+      "mouse on small blue mousepad",
+      "PC tower to the right with blue case lighting",
+      "three anime figures on/near the PC",
+      "pagoda poster on wall",
+      "cat-shaped desk lamp with blue accent",
+      "clear glass of water",
+      "tall leafy plant by window (camera-left)"
+    ],
+    "color_swap": "replace all former pink accents in wardrobe and room with blue (baby blue → sky/periwinkle)."
+  },
+
+  "lighting": {
+    "source": "daylight from large window camera-left through sheer curtain",
+    "quality": "soft diffused",
+    "white_balance_K": 5200
+  },
+
+  "camera": {
+    "mode": "smartphone rear camera via mirror (no portrait/bokeh mode)",
+    "focal_length_eq_mm": 26,
+    "distance_m": { "subject_to_mirror": 0.6, "camera_to_mirror": 0.5 },
+    "exposure": { "aperture_f": 1.8, "iso": 100, "shutter_s": 0.01, "ev_comp": -0.3 },
+    "focus": "torso and shorts in reflection",
+    "depth_of_field": "natural smartphone DOF (deep); background readable, no artificial blur",
+    "framing": {
+      "aspect_ratio": "1:1",
+      "crop": "top of head to mid-thigh; include desk, monitor, PC, and plant",
+      "angle": "slight downward tilt from mirror viewpoint",
+      "composition_notes": "keep subject centered; avoid wide-edge stretching by stepping back and cropping square"
+    }
+  },
+
+  "negatives": [
+    "pink/magenta accents anywhere",
+    "beauty-filter/airbrushed skin; poreless look",
+    "exaggerated or distorted anatomy",
+    "NSFW, see-through fabric, wardrobe malfunction",
+    "logos, brand names, readable UI text",
+    "fake portrait-mode blur, CGI/illustration look"
+  ]
+}
+```
+
+### Case 27: [High-Fashion Editorial Portrait](https://x.com/xmliisu/status/1992578650978361392) (by [@xmliisu](https://x.com/xmliisu))
+
+| Input | Output |
+|:---:|:---:|
+| <img src="images/case27_1_original.webp" width="200" alt="case27_1_original"> | <img src="images/case27_1_result.webp" width="200" alt="case27_1_result"> |
+
+**input:** Need to upload a reference image
+
+**prompt:**
+
+```json
+{
+  "image_generation_parameters": {
+    "resolution": "1200x1200px",
+    "aspect_ratio": "1:1",
+    "reference_usage": "Preserve facial features from reference image strictly"
+  },
+  "visual_style": {
+    "genre": "High-fashion magazine editorial",
+    "technique": "Direct flash photography",
+    "atmosphere": "Glamorous, bold, nightlife aesthetic, paparazzi style",
+    "lighting": "Hard direct flash creating sharp shadows and high contrast against a dark background"
+  },
+  "subject_breakdown": {
+    "appearance": {
+      "hair": "Long dark wavy hair, voluminous and glossy",
+      "expression": "Confident, alluring, looking back over the shoulder",
+      "gaze": "Direct connection with the camera"
+    },
+    "pose": " perched elegantly on the armchair, twisting torso to look back",
+    "wardrobe": {
+      "garment": "Black lace ruffled two-piece outfit (top and bottom)",
+      "footwear": "Black high stiletto heels with signature red soles",
+      "accessories": "None specified other than props"
+    }
+  },
+  "environment_details": {
+    "setting": "Modern luxury living room interior",
+    "time_of_day": "Night",
+    "furniture": "Plush charcoal grey armchair",
+    "props": "Black designer handbag resting on the chair cushion beside the subject",
+    "background": "Dimly lit upscale interior, out of focus"
+  }
+}
+```
+
+### Case 26: [4K Upscaling & Focus](https://x.com/alex_prompter/status/1992591995068645811) (by [@alex_prompter](https://x.com/alex_prompter))
+
+| Input | Output |
+|:---:|:---:|
+| <img src="images/case26_1_original.webp" width="200" alt="case26_1_original"> | <img src="images/case26_1_result.webp" width="200" alt="case26_1_result"> |
+
+**input:** Need to upload a reference image
+
+**prompt:**
+
+```
+Upscale this image to 4K resolution, make it fully in focus.
+```
 
 ### Case 25: [Shoe Pattern Deconstruction](https://x.com/LinusEkenstam/status/1992105428873056499) (by [@LinusEkenstam](https://x.com/LinusEkenstam))
 
@@ -99,7 +307,7 @@ Turn it into a photo of a real person.
 
 ### Case 22: [Car Girl Portrait](https://x.com/xmliisu/status/1991846916586438678) (by [@xmliisu](https://x.com/xmliisu))
 
-| Result |
+| Output |
 |:---:|
 | <img src="images/case22_1_result.webp" width="200" alt="case22_1_result"> |
 
@@ -140,7 +348,7 @@ Turn it into a photo of a real person.
 
 ### Case 21: [Recursive Artist Photography](https://x.com/goodside/status/1992038915881029641) (by [@goodside](https://x.com/goodside))
 
-| Result |
+| Output |
 |:---:|
 | <img src="images/case21_1_result.webp" width="200" alt="case21_1_result"> |
 
@@ -172,7 +380,7 @@ Realistic photo style, consistent identity, natural lighting.
 
 ### Case 19: [Historical Style Evolution Grid](https://x.com/blizaine/status/1992586719275954558) (by [@blizaine](https://x.com/blizaine))
 
-| Result |
+| Output |
 |:---:|
 | <img src="images/case19_1_result.webp" width="200" alt="case19_1_result"> |
 
@@ -184,7 +392,7 @@ Make a 4×4 grid starting with the 1880s. In each section, I should appear style
 
 ### Case 18: [Spatiotemporal Event Recreation](https://x.com/minchoi/status/1992624653815222509) (by [@minchoi](https://x.com/minchoi))
 
-| Result |
+| Output |
 |:---:|
 | <img src="images/case18_1_result.webp" width="200" alt="case18_1_result"> |
 
