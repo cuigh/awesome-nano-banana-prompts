@@ -27,6 +27,12 @@ Welcome to `awesome-nano-banana-pro-prompts`! Nano Banana Pro represents a leap 
   - [Mission ✨](#mission-)
   - [Directory](#directory)
   - [Cases](#cases)
+    - [Case 38: 90s Flash Bedroom Snapshot](#case-38-90s-flash-bedroom-snapshot-by-ucold-equipment7757)
+    - [Case 37: Cinematic Supernatural Thriller](#case-37-cinematic-supernatural-thriller-by-urupeshrupz)
+    - [Case 36: Green Ink Sketch Portrait](#case-36-green-ink-sketch-portrait-by-uminimum_minimum4577)
+    - [Case 35: Sunbathing Lounge Portrait](#case-35-sunbathing-lounge-portrait-by-uwalnuts303)
+    - [Case 34: Golden Hour Cocktail Portrait](#case-34-golden-hour-cocktail-portrait-by-uwalnuts303)
+    - [Case 33: Natural Light Swimwear Portrait](#case-33-natural-light-swimwear-portrait-by-uwalnuts303)
     - [Case 32: Cinematic Classroom Portrait](#case-32-cinematic-classroom-portrait-by-uminimum_minimum4577)
     - [Case 31: Cinematic Urban Motion](#case-31-cinematic-urban-motion-by-uminimum_minimum4577)
     - [Case 30: Persian Carpet Portrait](#case-30-persian-carpet-portrait-by-uminimum_minimum4577)
@@ -61,6 +67,110 @@ Welcome to `awesome-nano-banana-pro-prompts`! Nano Banana Pro represents a leap 
     - [Case 1: Pet to Plastic Action Figure](#case-1-pet-to-plastic-action-figure-by-geminiapp)
       
 ## Cases
+
+### Case 38: [90s Flash Bedroom Snapshot](https://www.reddit.com/r/nanobanana/comments/1p7o0yt/got_very_surprised_when_this_managed_to_slip/) (by [u/Cold-Equipment7757](https://www.reddit.com/user/Cold-Equipment7757/))
+
+| Input | Output |
+|:---:|:---:|
+| <img src="images/case38_1_original.webp" width="200" alt="case38_1_original"> | <img src="images/case38_1_result.webp" width="200" alt="case38_1_result"> |
+
+**input:** Need to upload a reference image
+
+**prompt:**
+
+```
+Candid photograph of preserve original face and body physique kneeling on a bed, leaning forward with arms straight down, hands pressing on the mattress. Nighttime indoor setting with no natural light, illuminated solely by a bright direct flash from the camera lens. The light hits the subject directly, making her pop against the dimly lit background. She is wearing a white structured corset crop top and dark navy blue dolphin shorts. Background: white floral patterned bed sheets, wooden headboard. Hard flash lighting, harsh shadows behind the subject, amateur snapshot aesthetic, 90s vibe.
+```
+
+### Case 37: [Cinematic Supernatural Thriller](https://www.reddit.com/r/nanobanana/comments/1p3xku5/nano_banana_pro_prompt/) (by [u/rupeshrupz](https://www.reddit.com/user/rupeshrupz/))
+
+| Input | Output |
+|:---:|:---:|
+| <img src="images/case37_1_original.webp" width="200" alt="case37_1_original"> <img src="images/case37_2_original.webp" width="200" alt="case37_2_original"> | <img src="images/case37_1_result.webp" width="200" alt="case37_1_result"> |
+
+**input:** Need to upload two reference images (face and pose)
+
+**prompt:**
+
+```json
+{
+use image1 for face reference ,use image2 for pose reference and follow the prompt
+{
+"scene": "A gritty, photorealistic cinematic film still from a supernatural thriller. A young man is centrally framed in a dimly lit, aged room, with a terrifying CGI creature looming directly behind him in the deep shadows.",
+"color_palette": "Dark, desaturated and moody. Dominant deep blacks, charcoal greys, and muted blues. Warm tungsten practical light on the man contrasting with cold shadows. The creature has pale, bone-like skin and glowing red and yellow eyes.",
+"subject": "Foreground: A young man (actor resembling Light Yagami), mid-20s, with realistic chestnut brown hair. Background: Ryuk, a photorealistic Shinigami with textured, leathery pale blue-grey skin, ragged black leather and feathers, and sharp teeth.",
+"pose": "The man stands facing forward, holding a worn black notebook ('DEATH NOTE') to his chest. Ryuk is hunched behind him, his large, clawed, spindly hands with realistic skull rings resting on the man's shoulders.",
+"expression": "Man: Subtle, calculating smirk with intense, shadowed eyes. Ryuk: A terrifying, wide, fixed grin showing sharp teeth and bulging, glowing eyes staring at the camera.",
+"action": "The man presents the book, while the creature looms as a dark, tangible presence.",
+"clothing": "Man: A real white cotton dress shirt, slightly wrinkled, with realistic fabric texture. Ryuk: Heavy, tattered leather and feather garments, rusted metal chains, and detailed bone jewelry.",
+"accesories": "A weathered black leather notebook with embossed 'DEATH NOTE' text. Ryuk wears a tarnished silver heart earring and multiple heavy, oxidised silver skull rings.",
+"companions": "The photorealistic Shinigami is the man's dark companion.",
+"environment": "A textured, dimly lit room with peeling wallpaper, old wooden furniture, and heavy shadows.",
+"background": "A complex, deep shadow area filled with indistinct textures of an old room, out of focus.",
+"style": "Photorealistic cinematic film still, gritty and dark, live-action movie quality.",
+"camera_settings": "Shot on ARRI Alexa, 85mm prime lens, f/1.4 aperture, ISO 800, shallow depth of field, low-key lighting with practical lamps and strong rim light from behind.",
+"FX": "Subtle atmospheric haze, realistic subsurface scattering on skin, volumetric lighting, realistic glowing eyes for the creature, film grain.",
+"render_quality": "Cinematic film still, 8k resolution, incredibly detailed textures on skin, fabric, and metal, ray tracing, photorealism, ultra-detailed.",
+"negative_prompt": "anime, cartoon, drawing, illustration, low resolution, blurry, bad CGI, distorted, extra limbs, missing fingers, text errors, bright colors, flat lighting."
+}
+}
+```
+
+### Case 36: [Green Ink Sketch Portrait](https://www.reddit.com/r/GenAI4all/comments/1p060gf/nano_banana_can_replace_half_your_editing_apps/) (by [u/Minimum_Minimum4577](https://www.reddit.com/user/Minimum_Minimum4577/))
+
+| Input | Output |
+|:---:|:---:|
+| <img src="images/case36_1_original.webp" width="200" alt="case36_1_original"> | <img src="images/case36_1_result.webp" width="200" alt="case36_1_result"> |
+
+**input:** Need to upload a reference image
+
+**prompt:**
+
+```
+Create a photo-style line drawing / ink sketch of a face identical to the uploaded reference image - keep every facial feature, proportion, and expression exactly the same. Use green and white ink tones with intricate, fine line detailing, drawn on a notebook-page style background. Show a right hand holding a pen and an eraser near the sketch, as if the artist is still working.
+```
+
+### Case 35: [Sunbathing Lounge Portrait](https://www.reddit.com/r/nanobanana/comments/1ol1d13/photos_again_with_prompts_this_time/) (by [u/walnuts303](https://www.reddit.com/user/walnuts303/))
+
+| Output |
+|:---:|
+| <img src="images/case35_1_result.webp" width="200" alt="case35_1_result"> |
+
+**input:** Need to modify part of the prompt yourself
+
+**prompt:**
+
+```
+A high-resolution digital photograph features a young female sunbathing on a grey mesh lounge chair placed on a dark wooden deck. She is lying on her stomach, wearing a camouflage-patterned thong bikini with thin side-tie strings, her body angled to prominently display her back and buttocks. Her legs are bent at the knees with her feet pointing up towards the sky. Her head is turned towards the viewer, her right hand resting on her forehead to block the harsh sunlight. Her blonde hair appears wet and is slicked back from her face, which has a serene expression with closed eyes. The intense, direct sun illuminates her tanned skin, casting defined shadows across her body and the chair. In the background, a modern house with brown brick walls and a covered patio area is visible. Further in the distance, a tree-covered hill is visible against a clear blue sky. The shot is captured from a side angle, with a shallow depth of field that keeps the focus sharply on the woman.
+```
+
+### Case 34: [Golden Hour Cocktail Portrait](https://www.reddit.com/r/nanobanana/comments/1ol1d13/photos_again_with_prompts_this_time/) (by [u/walnuts303](https://www.reddit.com/user/walnuts303/))
+
+| Output |
+|:---:|
+| <img src="images/case34_1_result.webp" width="200" alt="case34_1_result"> |
+
+**input:** Need to modify part of the prompt yourself
+
+**prompt:**
+
+```
+A photorealistic, high-detail photograph captures a young woman with striking blue eyes and blonde hair sitting at an outdoor table. She is bathed in the intense, warm light of the golden hour sun, which casts a strong orange glow across her face and chest. She holds a coupe glass containing an orange cocktail with a layer of white foam, looking toward the camera with a subtle smile. Her hair is styled in an updo with a visible braid and loose tendrils. She wears a form-fitting, dark grey ribbed tank dress and a delicate gold chain necklace. The hard, low-angle sunlight creates defined shadows, including one from the glass on her body. The background is a restaurant interior, softly out of focus, revealing other people and overhead lighting. The image has the unposed quality of a candid snapshot, with rich color saturation and sharp focus on the subject, capturing the texture of her skin and the fabric of her dress.
+```
+
+### Case 33: [Natural Light Swimwear Portrait](https://www.reddit.com/r/nanobanana/comments/1ol1d13/photos_again_with_prompts_this_time/) (by [u/walnuts303](https://www.reddit.com/user/walnuts303/))
+
+| Output |
+|:---:|
+| <img src="images/case33_1_result.webp" width="200" alt="case33_1_result"> |
+
+**input:** Need to modify part of the prompt yourself
+
+**prompt:**
+
+```
+A detailed, full-body photograph captures a female with shoulder-length, layered blonde hair and intense blue eyes, who gazes directly at the camera. She is positioned in profile, leaning with her right hand against a large, dark, textured rock face. The subject wears a bright red, one-piece swimsuit with a high-cut leg opening and a very deep, plunging side cut that exposes the entire side of her torso and the side of her left breast. A small black ink tattoo of a wave is visible on her left ribcage. Her left hand, which features a small floral tattoo on the back, rests on her hip, gently pulling at the swimsuit's fabric. A delicate silver-colored ring pierces her left nostril. The scene is illuminated by bright, natural daylight that accentuates the texture of her tanned skin and the rugged surface of the rock behind her.
+```
 
 ### Case 32: [Cinematic Classroom Portrait](https://www.reddit.com/r/GenAI4all/comments/1p060gf/nano_banana_can_replace_half_your_editing_apps/) (by [u/Minimum_Minimum4577](https://www.reddit.com/user/Minimum_Minimum4577/))
 
