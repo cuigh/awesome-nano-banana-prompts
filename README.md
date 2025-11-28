@@ -27,6 +27,10 @@ Welcome to `awesome-nano-banana-pro-prompts`! Nano Banana Pro represents a leap 
   - [Mission ✨](#mission-)
   - [Directory](#directory)
   - [Cases](#cases)
+    - [Case 42: Romantic Cottagecore Couple](#case-42-romantic-cottagecore-couple-by-yaseenk7212)
+    - [Case 41: Black and White Elderly Portrait](#case-41-black-and-white-elderly-portrait-by-flavioad)
+    - [Case 40: Alpine Editorial Fashion](#case-40-alpine-editorial-fashion-by-urokibalboaa)
+    - [Case 39: Y2K Nostalgic Mirror Selfie](#case-39-y2k-nostalgic-mirror-selfie-by-zarairahh)
     - [Case 38: 90s Flash Bedroom Snapshot](#case-38-90s-flash-bedroom-snapshot-by-ucold-equipment7757)
     - [Case 37: Cinematic Supernatural Thriller](#case-37-cinematic-supernatural-thriller-by-urupeshrupz)
     - [Case 36: Green Ink Sketch Portrait](#case-36-green-ink-sketch-portrait-by-uminimum_minimum4577)
@@ -67,6 +71,168 @@ Welcome to `awesome-nano-banana-pro-prompts`! Nano Banana Pro represents a leap 
     - [Case 1: Pet to Plastic Action Figure](#case-1-pet-to-plastic-action-figure-by-geminiapp)
       
 ## Cases
+
+### Case 42: [Romantic Cottagecore Couple](https://x.com/YaseenK7212/status/1992636484562903443) (by [@YaseenK7212](https://x.com/YaseenK7212))
+
+| Output |
+|:---:|
+| <img src="images/case42_1_result.webp" width="200" alt="case42_1_result"> |
+
+**input:** Need to modify part of the prompt yourself
+
+**prompt:**
+
+```json
+{
+  "scene": {
+    "shot_type": "high-angle, top-down cinematic",
+    "setting": "lush bed of green moss and wildflowers",
+    "characters": [
+      {
+        "role": "woman",
+        "position": "left",
+        "clothing": {
+          "dress": "vintage cream-colored dress with a square neckline",
+          "hat": "straw hat adorned with fresh pink roses and yellow daisies"
+        },
+        "appearance": {
+          "hair": "long dark wavy hair",
+          "expression": "gentle smile"
+        }
+      },
+      {
+        "role": "man",
+        "position": "right",
+        "clothing": {
+          "shirt": "crisp white Henley shirt",
+          "necklace": "silver chain necklace"
+        },
+        "appearance": {
+          "expression": "serene sleep"
+        }
+      }
+    ],
+    "details": {
+      "butterflies": {
+        "location": "resting on their clothing and the grass",
+        "color": "delicate pastel"
+      },
+      "flowers": [
+        "purple lavender",
+        "pink roses",
+        "yellow wildflowers"
+      ]
+    },
+    "lighting": {
+      "type": "dreamy and ethereal",
+      "effect": "dappled sunlight filtering through a forest canopy",
+      "shadows": "soft",
+      "glow": "warm golden glow on their faces"
+    },
+    "visual_style": {
+      "focus": "soft focus background",
+      "resolution": "8k",
+      "aesthetic": "romantic cottagecore"
+    }
+  }
+}
+```
+
+### Case 41: [Black and White Elderly Portrait](https://x.com/flavioAd/status/1991514076829176146) (by [@flavioAd](https://x.com/flavioAd))
+
+| Output |
+|:---:|
+| <img src="images/case41_1_result.webp" width="200" alt="case41_1_result"> |
+
+**input:** Need to modify part of the prompt yourself
+
+**prompt:**
+
+```
+Black and white portrait of an elderly bearded man, full face, deep set eyes, fine wrinkles, strong natural light from a side, high resolution, very realistic photo-style
+```
+
+### Case 40: [Alpine Editorial Fashion](https://www.reddit.com/r/nanobanana/comments/1obto93/steal_my_prompts/) (by [u/RokiBalboaa](https://www.reddit.com/user/RokiBalboaa/))
+
+| Output |
+|:---:|
+| <img src="images/case40_1_result.webp" width="200" alt="case40_1_result"> |
+
+**input:** Need to modify part of the prompt yourself
+
+**prompt:**
+
+```
+Editorial fashion close-up, waist-up crop. Woman in a pale-pink faux-fur coat and matching hat, turned over her shoulder with a defiant gaze. Mirrored ski visor and crystal earrings visible. Background: snowy alpine range with sharp peaks; falling snow frozen mid-motion. 85 mm portrait perspective, f/1.4 look, over-the-shoulder angle. Midday sun with reflective snow glare; harsh contrast; allow clipped highlights on visor and fur tips. Skin details intact: matte texture, light shadow under cheekbone, no retouching. Dense fur with natural shadowing; pink snow-pants waistband just visible with creases. Photographic imperfections: fine ISO grain in coat shadows, slight motion blur on drifting snow, auto white balance slightly cool. Neutral-to-cool RAW look.
+```
+
+### Case 39: [Y2K Nostalgic Mirror Selfie](https://x.com/ZaraIrahh/status/1991681614368436468) (by [@ZaraIrahh](https://x.com/ZaraIrahh))
+
+| Output |
+|:---:|
+| <img src="images/case39_1_result.webp" width="200" alt="case39_1_result"> |
+
+**input:** Need to modify part of the prompt yourself
+
+**prompt:**
+
+```json
+{
+  "subject": {
+    "description": "A young woman taking a mirror selfie with very long voluminous dark waves and soft wispy bangs",
+    "age": "young adult",
+    "expression": "confident and slightly playful",
+    "hair": {
+      "color": "dark",
+      "style": "very long, voluminous waves with soft wispy bangs"
+    },
+    "clothing": {
+  "top": {
+    "type": "fitted cropped t-shirt",
+    "color": "cream white",
+    "details": "features a large cute anime-style cat face graphic with big blue eyes, whiskers, and a small pink mouth"
+  }
+}
+    },
+    "face": {
+      "preserve_original": true,
+      "makeup": "natural glam makeup with soft pink dewy blush and glossy red pouty lips"
+    }
+  },
+  "accessories": {
+    "earrings": {
+      "type": "gold geometric hoop earrings"
+    },
+    "jewelry": {
+      "waistchain": "silver waistchain"
+    },
+    "device": {
+      "type": "smartphone",
+      "details": "patterned case"
+    }
+  },
+  "photography": {
+    "camera_style": "early-2000s digital camera aesthetic",
+    "lighting": "harsh super-flash with bright blown-out highlights but subject still visible",
+    "angle": "mirror selfie",
+    "shot_type": "tight selfie composition",
+    "texture": "subtle grain, retro highlights, V6 realism, crisp details, soft shadows"
+  },
+  "background": {
+    "setting": "nostalgic early-2000s bedroom",
+    "wall_color": "pastel tones",
+    "elements": [
+      "chunky wooden dresser",
+      "CD player",
+      "posters of 2000s pop icons",
+      "hanging beaded door curtain",
+      "cluttered vanity with lip glosses"
+    ],
+    "atmosphere": "authentic 2000s nostalgic vibe",
+    "lighting": "retro"
+  }
+}
+```
 
 ### Case 38: [90s Flash Bedroom Snapshot](https://www.reddit.com/r/nanobanana/comments/1p7o0yt/got_very_surprised_when_this_managed_to_slip/) (by [u/Cold-Equipment7757](https://www.reddit.com/user/Cold-Equipment7757/))
 
