@@ -27,6 +27,13 @@ Welcome to `awesome-nano-banana-pro-prompts`! Nano Banana Pro represents a leap 
   - [Mission ✨](#mission-)
   - [Directory](#directory)
   - [Cases](#cases)
+    - [Case 61: Douyin-Style Flash Selfie](#case-61-douyin-style-flash-selfie-by-udheerajsoni569)
+    - [Case 60: Nocturnal Roadside Car Portrait](#case-60-nocturnal-roadside-car-portrait-by-uayu_xi)
+    - [Case 59: Ferrari VIP Grandstand Portrait](#case-59-ferrari-vip-grandstand-portrait-by-nanobanana_labs)
+    - [Case 58: Retro 80s Miami Diner](#case-58-retro-80s-miami-diner-by-javilopen)
+    - [Case 57: Dramatic Low-Angle Light Portrait](#case-57-dramatic-low-angle-light-portrait-by-aiwithkhan)
+    - [Case 56: Melancholic Grass Field Portrait](#case-56-melancholic-grass-field-portrait-by-simplyannisa)
+    - [Case 55: Minimalist Monochrome Portrait](#case-55-minimalist-monochrome-portrait-by-aleenaamiir)
     - [Case 54: Golden Hour Wet Skin Close-up](#case-54-golden-hour-wet-skin-close-up-by-yaseenk7212)
     - [Case 53: Convertible Car Fashion Portrait](#case-53-convertible-car-fashion-portrait-by-xmliisu)
     - [Case 52: Winter Night Snowfall Selfie](#case-52-winter-night-snowfall-selfie-by-yaseenk7212)
@@ -83,6 +90,202 @@ Welcome to `awesome-nano-banana-pro-prompts`! Nano Banana Pro represents a leap 
     - [Case 1: Pet to Plastic Action Figure](#case-1-pet-to-plastic-action-figure-by-geminiapp)
       
 ## Cases
+
+### Case 61: [Douyin-Style Flash Selfie](https://www.reddit.com/r/GeminiAI/comments/1pbedac/nano_banana_pro_prompt_for_realistic_faces/) (by [u/dheerajsoni569](https://www.reddit.com/user/dheerajsoni569/))
+
+| Input | Output |
+|:---:|:---:|
+| <img src="images/case61_1_original.webp" width="200" alt="case61_1_original"> | <img src="images/case61_1_result.webp" width="200" alt="case61_1_result"> |
+
+**input:** Need to upload a reference image
+
+**prompt:**
+
+```json
+{
+"intent": "Generate a hyper-idealized, Douyin-style night portrait of the same girl attached in reference image using direct flash photography, creating a sharp, high-contrast glow.",
+"frame": {
+"aspect_ratio": "16:9",
+"composition": "Extreme close-up selfie framing focused tightly on eyes and lips, forehead slightly cropped, centered gaze.",
+"style_mode": "Flash photography, digital influencer aesthetic, soft-focus realism"
+},
+"subject": {
+"identity": "the same girl attached in reference image with soft youthful features and understated elegance.",
+"skin": " with smooth luminous finish reflecting the flash, creating a glassy glow with minimal texture.",
+
+"hair": " loose, naturally wavy catching specular highlights from the flash.",
+"wardrobe": "Minimal visibility of a simple, understated top suited for a city night."
+},
+"environment": {
+"location": "Nighttime indian city.",
+"weather": "Clear, calm night sky.",
+"background": "Dark urban backdrop with blurred bokeh lights from buildings."
+},
+"lighting": {
+"type": "Direct frontal phone flash or high-intensity screen light",
+"quality": "Hard, flat lighting eliminating deep shadows and creating a smooth two-dimensional glow",
+"contrast": "Strong separation between the illuminated face and the dark city background",
+"catchlight": "Small flash reflection in the center of pupils"
+},
+"camera": {
+"sensor_format": "Smartphone main camera simulation",
+"lens": "24mm wide-angle lens exaggerating eye size and softening facial proportions",
+"aperture_depth_of_field": "f/1.8–f/2.2, sharp on eyes and lips, instant blur on background and edges of hair",
+"focus": "Critical focus on iris texture and lashes"
+},
+"negative": {
+"content": "No wet hair, no snow, no rain, no masculine features, no visible pores, no contour-heavy makeup, no sunglasses, no hands in frame.",
+"style": "No dramatic shadows, no vintage tones, no painterly effects, no warm film look."
+}
+}
+```
+
+### Case 60: [Nocturnal Roadside Car Portrait](https://www.reddit.com/r/GeminiAI/comments/1pb672x/photo_realism_with_nano_banana_pro/) (by [u/ayu_xi](https://www.reddit.com/user/ayu_xi/))
+
+| Input | Output |
+|:---:|:---:|
+| <img src="images/case60_1_original.webp" width="200" alt="case60_1_original"> | <img src="images/case60_1_result.webp" width="200" alt="case60_1_result"> |
+
+**input:** Need to upload a reference image
+
+**prompt:**
+
+```
+Full-length, environmental night portrait. Pose & Stance: The model leans casually against the front fascia of a modern, white compact hatchback car (Hyundai i20). The posture is relaxed. Attire: A white long sleeved top featuring intricate tonal lace appliqué or embroidery detailing on the upper chest yoke. High-waisted, straight-leg denim jeans in a grey wash. Casual blue thong sandals. Environment: A nocturnal roadside setting. The ground is an unpaved, dusty gravel surface. To the left, a rustic building structure with a blue corrugated metal gate is visible. The background right reveals a pitch-black hillside dotted with distant, bokeh city lights. Lighting & Technical: High-contrast mixed artificial lighting. A potent, harsh light source originates from the upper left, creating dramatic, vertical lens flare streaks (light pillars) and casting long, hard shadows of the subject and vehicle to the right. The subject is illuminated by a direct flash or floodlight, creating a stark separation from the dark background.
+```
+
+### Case 59: [Ferrari VIP Grandstand Portrait](https://x.com/NanoBanana_labs/status/1993072987898106320) (by [@NanoBanana_labs](https://x.com/NanoBanana_labs))
+
+| Input | Output |
+|:---:|:---:|
+| <img src="images/case59_1_original.webp" width="200" alt="case59_1_original"> | <img src="images/case59_1_result.webp" width="200" alt="case59_1_result"> |
+
+**input:** Need to upload a reference image
+
+**prompt:**
+
+```json
+{
+  "core_instruction": "Strictly guarantee consistency with the face and hairstyle of the reference image.",
+  "subject": {
+    "identity": "A character matching the reference image strictly",
+    "expression": "confident, charming, elegant, slight smile, relaxed posture",
+    "pose": {
+      "body_language": "slightly leaned, face turned towards camera",
+      "right_hand": "holding the brim of the cap, adjusting it slightly",
+      "left_hand": "holding a glass of white wine, arm relaxed",
+      "details": "long nails with pink and red nail art with white details"
+    },
+    "outfit": {
+      "headwear": "Red Ferrari cap, yellow prancing horse (cavallino rampante) logo, white '16' on brim",
+      "top": "strapless top in structured denim, tight, visible stitching, enhancing silhouette",
+      "eyewear": "Miu Miu sunglasses, brown gradient lenses, rectangular metallic frame",
+      "accessories": [
+        "double necklace (large gold links + delicate diamonds)",
+        "geometric gold earrings",
+        "silver bracelet on right wrist",
+        "discreet red bag hanging on shoulder"
+      ]
+    },
+    "makeup": "impeccable, glamorous, illuminated skin, defined eyes, pink lipstick, warm blush"
+  },
+  "environment": {
+    "location": "outdoor automotive event, VIP box/grandstand",
+    "background": "wide view of race track and colorful crowd, slightly blurred",
+    "weather": "sunny, intense blue sky, natural sunlight"
+  },
+  "technical_details": {
+    "format": "hyper-realistic 8K photo",
+    "framing": "medium shot, capturing upper body",
+    "lighting": "natural and intense, subtle solar reflections on face and hair",
+    "color_palette": "vibrant shades of red, denim blue, gold, and caramel",
+    "textures": "high fidelity denim texture, metallic shine of accessories, skin texture"
+  },
+  "mood": "modern, luxurious, relaxed, exclusive, sporty fashion"
+}
+```
+
+### Case 58: [Retro 80s Miami Diner](https://x.com/javilopen/status/1991619717946306828) (by [@javilopen](https://x.com/javilopen))
+
+| Input | Output |
+|:---:|:---:|
+| <img src="images/case58_1_original.webp" width="200" alt="case58_1_original"> | <img src="images/case58_1_result.webp" width="200" alt="case58_1_result"> |
+
+**input:** Need to upload a reference image
+
+**prompt:**
+
+```
+Cinematic photograph of a character, strictly guaranteeing consistency with the face and hairstyle of the image, with a black phanter near her, in a pastel windbreaker in a small bikini, sipping a tropical soda inside a retro diner, super cute, vintage 1980s Miami vibes, pastel neon colors, tropical accents, cool atmosphere, soft film grain, looks like a film still from an 80s movie.
+```
+
+### Case 57: [Dramatic Low-Angle Light Portrait](https://x.com/AIwithkhan/status/1992890928005325245) (by [@AIwithkhan](https://x.com/AIwithkhan))
+
+| Input | Output |
+|:---:|:---:|
+| <img src="images/case57_1_original.webp" width="200" alt="case57_1_original"> | <img src="images/case57_1_result.webp" width="200" alt="case57_1_result"> |
+
+**input:** Need to upload a reference image
+
+**prompt:**
+
+```
+A dramatic, low-angle portrait of a character, strictly guaranteeing consistency with the face and hairstyle of the image, standing in a dark, minimalist space, illuminated by a sharp beam of light that carves across her face and shoulders. She wears transparent, modern glasses that catch the glow, adding geometric reflections to her expression. Her gaze is lifted upward with quiet determination, creating a powerful, almost heroic silhouette against the deep shadows around her. The contrast between light and darkness emphasizes her poised posture and confident presence. Capture the scene with high-contrast lighting, subtle film-grain texture, and a moody, atmospheric tone.
+```
+
+### Case 56: [Melancholic Grass Field Portrait](https://x.com/SimplyAnnisa/status/1992819599541485701) (by [@SimplyAnnisa](https://x.com/SimplyAnnisa))
+
+| Input | Output |
+|:---:|:---:|
+| <img src="images/case56_1_original.webp" width="200" alt="case56_1_original"> | <img src="images/case56_1_result.webp" width="200" alt="case56_1_result"> |
+
+**input:** Need to upload a reference image
+
+**prompt:**
+
+```
+moody cinematic portrait, strictly guarantee consistency with the face and hairstyle of the image, in tall grass field at dusk, overcast sky, teal-green color grade, wearing white buttoned shirt, matte silver over-ear headphones, side profile, head tilted back toward sky, eyes closed, arms open and slightly back, wind-swept grass blades in foreground creating soft motion blur, shallow depth of field with creamy bokeh, natural ambient light, soft rim light on hair,  melancholic freedom vibe, minimal contrast, subtle grain
+```
+
+### Case 55: [Minimalist Monochrome Portrait](https://x.com/aleenaamiir/status/1991765428985876879) (by [@aleenaamiir](https://x.com/aleenaamiir))
+
+| Input | Output |
+|:---:|:---:|
+| <img src="images/case55_1_original.webp" width="200" alt="case55_1_original"> | <img src="images/case55_1_result.webp" width="200" alt="case55_1_result"> |
+
+**input:** Need to upload a reference image
+
+**prompt:**
+
+```json
+{
+  "description": "A cinematic, ultra-realistic monochrome portrait of a young woman with expressive eyes and a calm, intense gaze.",
+  "subject": {
+    "gender": "female",
+    "appearance": "Strictly guarantee consistency with the face and hairstyle of the image",
+    "clothing": {
+      "outfit": "black attire with a white textured collar creating strong contrast"
+    }
+  },
+  "environment": {
+    "background": "smooth monochrome gradient, minimalist, draws focus to the face"
+  },
+  "lighting": {
+    "style": "soft but high-contrast monochrome lighting",
+    "details": "gentle highlights on facial features, subtle shadow depth",
+    "effect": "cinematic, clean, refined"
+  },
+  "camera": {
+    "type": "close-up portrait",
+    "quality": "ultra-realistic, high-resolution, fine tonal range",
+    "focus": "sharp on eyes and facial details, smooth background gradient"
+  },
+  "aesthetic": {
+    "tone": "minimalist, artistic, elegant",
+    "qualities": "high texture detail, crisp monochrome rendering, premium realism"
+  }
+}
+```
 
 ### Case 54: [Golden Hour Wet Skin Close-up](https://x.com/YaseenK7212/status/1993288440532611172) (by [@YaseenK7212](https://x.com/YaseenK7212))
 
