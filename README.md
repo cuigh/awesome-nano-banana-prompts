@@ -27,6 +27,18 @@ Welcome to `awesome-nano-banana-pro-prompts`! Nano Banana Pro represents a leap 
   - [Mission ✨](#mission-)
   - [Directory](#directory)
   - [Cases](#cases)
+    - [Case 54: Golden Hour Wet Skin Close-up](#case-54-golden-hour-wet-skin-close-up-by-yaseenk7212)
+    - [Case 53: Convertible Car Fashion Portrait](#case-53-convertible-car-fashion-portrait-by-xmliisu)
+    - [Case 52: Winter Night Snowfall Selfie](#case-52-winter-night-snowfall-selfie-by-yaseenk7212)
+    - [Case 51: Vintage Flash 90s Portrait](#case-51-vintage-flash-90s-portrait-by-yaseenk7212)
+    - [Case 50: Soft Focus Macro Beauty Portrait](#case-50-soft-focus-macro-beauty-portrait-by-miilesus)
+    - [Case 49: Neon City Rain Portrait](#case-49-neon-city-rain-portrait-by-rovvmut_)
+    - [Case 48: Luxury Private Jet Editorial](#case-48-luxury-private-jet-editorial-by-xmliisu)
+    - [Case 47: Porsche GT3 RS Night Portrait](#case-47-porsche-gt3-rs-night-portrait-by-yaseenk7212)
+    - [Case 46: Luxury SUV Night Portrait](#case-46-luxury-suv-night-portrait-by-yaseenk7212)
+    - [Case 45: MacBook Photo Booth Couple](#case-45-macbook-photo-booth-couple-by-yaseenk7212)
+    - [Case 44: Casual Athletic Mirror Selfie](#case-44-casual-athletic-mirror-selfie-by-gaucheai)
+    - [Case 43: Luxury Supercar Showroom Portrait](#case-43-luxury-supercar-showroom-portrait-by-yaseenk7212)
     - [Case 42: Romantic Cottagecore Couple](#case-42-romantic-cottagecore-couple-by-yaseenk7212)
     - [Case 41: Black and White Elderly Portrait](#case-41-black-and-white-elderly-portrait-by-flavioad)
     - [Case 40: Alpine Editorial Fashion](#case-40-alpine-editorial-fashion-by-urokibalboaa)
@@ -71,6 +83,855 @@ Welcome to `awesome-nano-banana-pro-prompts`! Nano Banana Pro represents a leap 
     - [Case 1: Pet to Plastic Action Figure](#case-1-pet-to-plastic-action-figure-by-geminiapp)
       
 ## Cases
+
+### Case 54: [Golden Hour Wet Skin Close-up](https://x.com/YaseenK7212/status/1993288440532611172) (by [@YaseenK7212](https://x.com/YaseenK7212))
+
+| Input | Output |
+|:---:|:---:|
+| <img src="images/case54_1_original.webp" width="200" alt="case54_1_original"> | <img src="images/case54_1_result.webp" width="200" alt="case54_1_result"> |
+
+**input:** Need to upload a reference image
+
+**prompt:**
+
+```json
+{
+  "prompt_title": "Hyper-realistic Close-up Portrait (Wet Skin, Golden Hour)",
+  "style_and_quality": {
+    "rendering_style": "Hyper-realistic close-up",
+    "resolution": "8K",
+    "focus": "Extremely shallow depth of field (DoF)",
+    "aesthetic_effect": "Ultra-detailed cinematic effect, soft realistic contrast, golden tones and deep shadows"
+  },
+  "photography_equipment": {
+    "camera": "Hasselblad H6D-400c",
+    "lens": "100mm f/2.2 lens"
+  },
+  "composition_and_framing": {
+    "framing": "Close-up",
+    "subject_placement": "Captures only the left side of the face",
+    "key_focus_point": "Eye in absolute focus with a crisp catchlight"
+  },
+  "subject_details": {
+    "model_gender": "Woman",
+    "facial_features_to_maintain": "Faithfully maintaining all facial features from reference photo, thick, well-defined eyebrow, long wet lashes",
+    "skin_texture_emphasis": "Microtextural details, pores, freckles, natural texture of wet skin",
+    "lips": "Full, slightly parted, and wet lips; texture highlighted by directional lighting"
+  },
+  "water_and_texture": {
+    "skin_covering": "Skin covered in water droplets running down naturally",
+    "highlights": "Vivid specular highlights due to light angle, moist reflections on the lips and nose"
+  },
+  "lighting_setup": {
+    "type": "Simulated warm late afternoon light (Golden Hour)",
+    "main_source": "Large side softbox",
+    "fill_and_bounce": "Combined with a gold reflector",
+    "effect": "Soft yet intense glow on the water on the woman's face, precisely highlights micro-details"
+  },
+  "hair_details": {
+    "placement": "Wet strands of hair fall along the right side of the face",
+    "interaction": "Clinging to the skin without altering any facial features"
+  }
+}
+```
+
+### Case 53: [Convertible Car Fashion Portrait](https://x.com/xmliisu/status/1993709079114526868) (by [@xmliisu](https://x.com/xmliisu))
+
+| Input | Output |
+|:---:|:---:|
+| <img src="images/case53_1_original.webp" width="200" alt="case53_1_original"> | <img src="images/case53_1_result.webp" width="200" alt="case53_1_result"> |
+
+**input:** Need to upload a reference image
+
+**prompt:**
+
+```json
+{
+  "image": {
+    "subject": {
+      "description": "A beautiful woman with long, dark hair, posing confidently.",
+      "pose": "Sitting on the back of a convertible car with a self-assured expression."
+    },
+    "attire": {
+      "top": "Trendy thin strap white cropped top with a tie front detail.",
+      "bottom": "Pleated plaid mini-skirt.",
+      "accessory": "A unique patterned tie worn loosely."
+    },
+    "vehicle": {
+      "type": "Sleek, dark yellow convertible sports car.",
+      "interior": "Luxurious brown leather seats visible.",
+      "wheels": "Black alloy wheels contrasting with the exterior."
+    },
+    "setting": {
+      "background": "Simple, sunlit outdoor environment with paved ground and indistinct greenery."
+    },
+    "format": {
+      "resolution": "1200x1200px",
+      "consistency": "100% same face & body details throughout."
+    }
+  }
+}
+```
+
+### Case 52: [Winter Night Snowfall Selfie](https://x.com/YaseenK7212/status/1993584593060999627) (by [@YaseenK7212](https://x.com/YaseenK7212))
+
+| Input | Output |
+|:---:|:---:|
+| <img src="images/case52_1_original.webp" width="200" alt="case52_1_original"> | <img src="images/case52_1_result.webp" width="200" alt="case52_1_result"> |
+
+**input:** Need to upload a reference image
+
+**prompt:**
+
+```json
+{
+  "pose": {
+    "description": "She holds the camera with her left hand, positioned slightly below eye level, capturing her face from a confident upward angle; lips softly parted, expression calm yet intense."
+  },
+  "background": {
+    "description": "A dark winter night sky with faint, lightly frosted tree branches barely visible, adding a dramatic atmosphere."
+  },
+  "atmosphere": {
+    "description": "Cold, cinematic, and raw winter energy; a stylish modern snowy portrait with natural texture and detail."
+  },
+  "reference_style": {
+    "description": "Conceptual variant.",
+    "details": {
+      "shot": "A close-up outdoor selfie taken at night during heavy snowfall.",
+      "subject": "The woman's facial features match the reference image exactly.",
+      "skin": {
+        "description": "Natural tone with visible, realistic skin texture. Her cheeks are slightly flushed from the cold."
+      },
+      "snow_details": {
+        "description": "Snowflakes rest on her lashes and hair."
+      },
+      "outfit": {
+        "description": "She wears a black faux-fur winter hat almost fully covered in snow, and a shiny black puffer jacket with snow dusted across the shoulders and collar."
+      },
+      "camera": {
+        "description": "She is taking the selfie with her left hand."
+      },
+      "lighting": {
+        "description": "Soft, cold night lighting from above and slightly in front, creating a subtle glow on her cheeks and gentle highlights on the jacket."
+      }
+    }
+  },
+  "negative_prompt": {
+    "description": [
+      "blurry face",
+      "altered facial features",
+      "incorrect facial structure",
+      "distorted proportions",
+      "extra limbs",
+      "extra fingers",
+      "missing fingers",
+      "deformed eyes",
+      "inaccurate expression",
+      "unrealistic skin texture",
+      "plastic skin",
+      "oversoftened skin",
+      "unnatural lighting",
+      "harsh shadows",
+      "artifacts",
+      "pixelation",
+      "low resolution"
+    ]
+  }
+}
+```
+
+### Case 51: [Vintage Flash 90s Portrait](https://x.com/YaseenK7212/status/1993718902090567955) (by [@YaseenK7212](https://x.com/YaseenK7212))
+
+| Input | Output |
+|:---:|:---:|
+| <img src="images/case51_1_original.webp" width="200" alt="case51_1_original"> | <img src="images/case51_1_result.webp" width="200" alt="case51_1_result"> |
+
+**input:** Need to upload a reference image
+
+**prompt:**
+
+```json
+{
+  "subject": {
+    "face": {
+      "appearance": "identical",
+      "lighting": {
+        "main_light": "harsh vintage flash",
+        "effect": "warm front glow",
+        "shadow": "cold faint bluish shadow"
+      },
+      "skin": {
+        "color": "pale",
+        "glow": "uneven",
+        "style": "gritty 90s"
+      },
+      "hair": {
+        "style": "clipped up",
+        "loose_strands": {
+          "caught_colors": ["warm", "cold"]
+        }
+      },
+      "clothing": {
+        "jacket": "charcoal"
+      }
+    },
+    "background": {
+      "room": {
+        "overall_color": "nearly black",
+        "lighting": {
+          "warm_flare": "posters",
+          "shadowed_areas": "icy shadows"
+        }
+      }
+    },
+    "mood": {
+      "tone": "uneven",
+      "style": "cinematic",
+      "contrast": "dirty"
+    }
+  }
+}
+```
+
+### Case 50: [Soft Focus Macro Beauty Portrait](https://x.com/miilesus/status/1995622941954891907) (by [@miilesus](https://x.com/miilesus))
+
+| Input | Output |
+|:---:|:---:|
+| <img src="images/case50_1_original.webp" width="200" alt="case50_1_original"> | <img src="images/case50_1_result.webp" width="200" alt="case50_1_result"> |
+
+**input:** Need to upload a reference image
+
+**prompt:**
+
+```json
+{
+  "pipeline_configuration": {
+    "job_type": "img2img_transformation",
+    "meta_tags": ["macro", "beauty", "soft_focus", "realism"],
+    
+    "input_reference_handling": {
+      "preservation_rules": {
+        "facial_identity": {
+          "strength": 1.0,
+          "instruction": "Strict 100% preservation of facial geometry and features.",
+          "technique": "FaceID / IP-Adapter Strong"
+        },
+        "color_palette": {
+          "target": "Hair Color",
+          "mode": "inherit_from_source",
+          "instruction": "Do not hallucinate new hair color. Map source color to new hair texture."
+        }
+      }
+    },
+
+    "generative_parameters": {
+      "subject_definition": {
+        "hair_morphology": {
+          "length": "Short",
+          "texture_type": "Wavy",
+          "styling_aesthetic": "Intentionally messy, artfully disheveled",
+          "micro_details": "Fine strands falling across forehead and near eyes",
+          "color_override": null
+        },
+        "facial_details": {
+          "expression": "Serene, gentle",
+          "makeup_style": "Natural, soft-beauty approach",
+          "surface_texture": "Ultra-clean skin with visible macro pores"
+        }
+      },
+
+      "scene_composition": {
+        "camera_settings": {
+          "proximity": "Extreme Close-Up (Macro)",
+          "depth_of_field": "Ultra-shallow",
+          "focus_target": "Eyes",
+          "lens_character": "Soft beauty lens"
+        },
+        "foreground_layers": {
+          "element": "Hand",
+          "state": "Partially blurred",
+          "purpose": "Framing effect, adding depth and intimacy"
+        },
+        "background_layers": {
+          "state": "Fully out of focus",
+          "visuals": "Pastel, soft tones",
+          "bokeh_quality": "Strong, smooth, creamy"
+        }
+      },
+
+      "lighting_and_atmosphere": {
+        "style": "Soft-beauty photography",
+        "dynamic_range": "High (HDR)",
+        "quality": "Airy, bright, diffused",
+        "reflections": {
+          "eyes": "Crisp, sharp catchlights",
+          "lips": "Soft, natural shine"
+        }
+      }
+    },
+
+    "text_prompts": {
+      "weighted_positive": {
+        "(Masterpiece, Best Quality, 8k, Macro Photo)": 1.5,
+        "Extreme close-up of young woman with serene gentle expression": 1.3,
+        "Short wavy messy hair with stray wisps over eyes": 1.2,
+        "Hand in foreground partially blurred framing the face": 1.2,
+        "Macro skin texture, pores visible, individual hair strands": 1.4,
+        "Ultra-sharp eyes with crisp reflections": 1.3,
+        "Soft pastel bokeh background": 1.1,
+        "Soft diffused lighting, airy aesthetic": 1.0
+      },
+      "weighted_negative": {
+        "alteration of face, new hair color, long hair": 1.5,
+        "plastic skin, airbrushed, smooth": 1.4,
+        "cartoon, 3d render, illustration": 1.3,
+        "deep focus, sharp background, clutter": 1.2,
+        "deformed hand, bad anatomy": 1.4
+      }
+    }
+  }
+}
+```
+
+### Case 49: [Neon City Rain Portrait](https://x.com/rovvmut_/status/1992052672606921113) (by [@rovvmut_](https://x.com/rovvmut_))
+
+| Output |
+|:---:|
+| <img src="images/case49_1_result.webp" width="200" alt="case49_1_result"> |
+
+**input:** Need to modify part of the prompt yourself
+
+**prompt:**
+
+```json
+{
+  "prompt": {
+    "positive": "High-resolution vertical portrait, 4K quality. A woman with wavy black hair, slightly damp. Dreamy soft gaze looking up toward the camera. Wearing an oversized slate grey/teal hoodie. Leaning against a wall covered with messy posters, flyers, and stickers. Nighttime busy city street (Tokyo/Seoul/Hong Kong style). Light drizzle with visible water particles in the air. Wet reflective street surface. Red neon reflections and bright car brake lights dominating the pavement. Yellow and red neon shop signs in background. Strong dramatic lighting with high contrast between warm neon reds/yellows and cool blue/grey ambient tones. Shallow depth of field, bokeh background. Cinematic, photorealistic.",
+    "negative": "blurry face, distorted anatomy, extra limbs, extra fingers, watermark, text, overexposed lights, underexposed shadows, cartoon style, low resolution, grainy, unrealistic skin, duplicated facial features"
+  },
+  "parameters": {
+    "style": "photorealistic",
+    "resolution": "4K",
+    "ratio": "3:4",
+    "camera": {
+      "lens": "portrait lens (50mm–85mm)",
+      "depth_of_field": "shallow",
+      "focus": "sharp focus on subject"
+    },
+    "lighting": {
+      "type": "neon city lighting",
+      "contrast": "high",
+      "color_palette": ["red neon", "yellow neon", "cool blue/grey shadows"]
+    }
+  },
+  "environment_details": {
+    "weather": "light rain / drizzle",
+    "city_style": ["Tokyo", "Seoul", "Hong Kong"],
+    "foreground": "poster-covered wall",
+    "background": {
+      "elements": ["wet reflective street", "cars with red brake lights", "neon shop signs"],
+      "depth": "blurred bokeh"
+    }
+  },
+  "subject": {
+    "gender": "female",
+    "expression": "dreamy, soft gaze upward",
+    "hair": "wavy black, slightly damp",
+    "clothing": "oversized slate grey/teal hoodie"
+  }
+}
+```
+
+### Case 48: [Luxury Private Jet Editorial](https://x.com/xmliisu/status/1993892537405460738) (by [@xmliisu](https://x.com/xmliisu))
+
+| Output |
+|:---:|
+| <img src="images/case48_1_result.webp" width="200" alt="case48_1_result"> |
+
+**input:** Need to modify part of the prompt yourself
+
+**prompt:**
+
+```json
+{
+  "project_title": "Luxury Private Jet Editorial",
+  "dimensions": "1200x1200px",
+  "scene_description": {
+    "subject": {
+      "demographics": "Attractive Western woman",
+      "hair": "Long straight hair",
+      "features": "Realistic skin textures, true-to-life proportions",
+      "framing": "Close-up to mid-to-full body shot"
+    },
+    "wardrobe": {
+      "dress": {
+        "style": "High-fashion model-style dress",
+        "front_detail": "Deep V-neck",
+        "back_detail": "Fully strappy back exposed",
+        "cut": "Thigh-high slits revealing legs",
+        "texture": "Detailed fabric and strap textures"
+      },
+      "footwear": {
+        "style": "Flowery strappy high heels",
+        "visibility": "Fully visible, feet explicitly shown"
+      },
+      "accessories": "Luxurious Western-style gold jewelry"
+    },
+    "pose_and_action": {
+      "posture": "Sitting on the stairs of a private jet",
+      "attitude": "Striking, bold, confident, editorial magazine-style",
+      "specifics": "Showing both front and back simultaneously, emphasizing legs and heels"
+    },
+    "environment": {
+      "location": "Stairs of a private jet",
+      "atmosphere": "Luxury travel vibe"
+    }
+  },
+  "technical_specifications": {
+    "style": "Cinematic fashion editorial, photorealistic, ultra-detailed",
+    "quality": "8k, HD, DSLR quality",
+    "camera_settings": "35mm lens, sharp focus on face, back, legs, and feet",
+    "lighting_base": "Dramatic natural light"
+  },
+  "generation_parameters": {
+    "negative_prompt": [
+      "blurry",
+      "low quality",
+      "cartoon",
+      "painting",
+      "deformed",
+      "extra limbs",
+      "bad anatomy",
+      "unrealistic proportions",
+      "CGI-looking face",
+      "overexposed",
+      "underexposed",
+      "fake skin textures",
+      "obscured feet or heels",
+      "closed shoes hiding feet"
+    ],
+    "variations": [
+      {
+        "id": "v1_golden_hour",
+        "name": "Golden Hour Sunset",
+        "lighting_detail": "Warm orange-pink sunset sky, cinematic backlight"
+      },
+      {
+        "id": "v2_daylight",
+        "name": "Bright Daylight",
+        "lighting_detail": "Clear blue sky with fluffy white clouds, crisp daylight"
+      },
+      {
+        "id": "v3_overcast",
+        "name": "Moody Overcast",
+        "lighting_detail": "Soft dramatic overcast sky, high contrast"
+      }
+    ]
+  }
+}
+```
+
+### Case 47: [Porsche GT3 RS Night Portrait](https://x.com/YaseenK7212/status/1993893216463069429) (by [@YaseenK7212](https://x.com/YaseenK7212))
+
+| Output |
+|:---:|
+| <img src="images/case47_1_result.webp" width="200" alt="case47_1_result"> |
+
+**input:** Need to modify part of the prompt yourself
+
+**prompt:**
+
+```json
+{
+  "prompt": {
+    "scene": {
+      "location": "gas station",
+      "time_of_day": "night",
+      "elements": [
+        "black Porsche GT3 RS",
+        "wet ground reflecting colorful urban lights",
+        "gas station elements",
+        "building with signs"
+      ]
+    },
+    "subject": {
+      "gender": "female",
+      "pose": "leaning against Porsche GT3 RS",
+      "clothing": {
+        "type": "tracksuit",
+        "color": "black",
+        "detailing": "distinct orange and yellow lettering"
+      },
+      "hair": {
+        "style": "wavy",
+        "details": "slightly wavy"
+      },
+      "face": {
+        "accuracy": 100
+      }
+    },
+    "image_quality": {
+      "style": "ultra-realistic",
+      "resolution": "8k",
+      "features": [
+        "cinematic night lighting",
+        "HDR cinematic sharpness",
+        "hyper-detailed textures"
+      ],
+      "camera": {
+        "model": "iPhone 17 Pro Max",
+        "photo_characteristics": [
+          "natural proportions",
+          "realistic textures",
+          "vibrant reflections from artificial lights"
+        ]
+      }
+    },
+    "color_grading": {
+      "mood": "dark and moody",
+      "lighting": "vibrant reflections from urban lights"
+    }
+  }
+}
+```
+
+### Case 46: [Luxury SUV Night Portrait](https://x.com/YaseenK7212/status/1995691515465621876) (by [@YaseenK7212](https://x.com/YaseenK7212))
+
+| Output |
+|:---:|
+| <img src="images/case46_1_result.webp" width="200" alt="case46_1_result"> |
+
+**input:** Need to modify part of the prompt yourself
+
+**prompt:**
+
+```json
+{
+  "structured_prompt_detailed": {
+    "subject_profile": {
+      "demographic": "Young woman",
+      "appearance": {
+        "hair": {
+          "color": "brown",
+          "texture": "wavy",
+          "length": "long"
+        },
+        "skin": {
+          "tone": "fair",
+          "texture_quality": "ultra-realistic skin texture"
+        },
+        "physique": "curvy hourglass figure"
+      }
+    },
+    "clothing_specification": {
+      "torso": {
+        "item": "halter top",
+        "color": "black",
+        "style_notes": "backless, revealing entire bare back"
+      },
+      "legs": {
+        "item": "jeans",
+        "color": "light-blue",
+        "fit": "very tight, high-waisted",
+        "fit_notes": "perfectly hug hips and thighs"
+      }
+    },
+    "action_and_pose": {
+      "position": "Sitting sideways on the passenger seat",
+      "body_language": "Sensual and confident pose",
+      "head_turn": "Looking back over shoulder",
+      "facial_expression": "Subtle playful smile"
+    },
+    "environment_context": {
+      "location_type": "Luxury SUV interior",
+      "time": "Night",
+      "vehicle_details": {
+        "suggested_make": "Mercedes-Benz or similar luxury",
+        "interior_materials": ["wood trim", "leather seats"]
+      },
+      "background_elements": {
+        "exterior_view": "City nightlife visible through windows",
+        "effect": "Bokeh lights"
+      }
+    },
+    "lighting_setup": {
+      "overall_style": "Cinematic lighting",
+      "sources": {
+        "primary_interior": "Soft warm interior car lighting",
+        "secondary_accent": "Cool blue ambient dashboard glow"
+      },
+      "mixing": "Mixed warm and cool tones"
+    },
+    "cinematography_and_render": {
+      "style": "Photorealistic",
+      "detail_level": "High detail, 8k",
+      "camera_angle": "Shot from behind at a 3/4 angle",
+      "focus": "Sharp focus"
+    },
+    "midjourney_parameters": {
+      "aspect_ratio": "--ar 1:1",
+      "version": "--v 6",
+      "quality": "--q 2",
+      "stylize": "--stylize 250"
+    }
+  }
+}
+```
+
+### Case 45: [MacBook Photo Booth Couple](https://x.com/YaseenK7212/status/1996186805398364512) (by [@YaseenK7212](https://x.com/YaseenK7212))
+
+| Output |
+|:---:|
+| <img src="images/case45_1_result.webp" width="200" alt="case45_1_result"> |
+
+**input:** Need to modify part of the prompt yourself
+
+**prompt:**
+
+```json
+{
+  "task_configuration": {
+    "task_type": "screen_simulation_photorealism",
+    "target_model": "SDXL_1.0_Refiner",
+    "aspect_ratio": "3:4",
+    "resolution": {
+      "width": 1152,
+      "height": 1536
+    }
+  },
+  "visual_hierarchy": {
+    "layer_1_physical_macro": {
+      "camera_angle": "Downward-angled, high-angle",
+      "framing": "MacBook screen filling 95% of frame",
+      "surface_imperfections": [
+        "subtle pixel-grid texture (moire)",
+        "tiny dust particles on glass",
+        "faint ambient light reflection on glossy screen",
+        "fingerprint smudges"
+      ],
+      "foreground_anchor": "Thin strip of physical keyboard visible at lower edge"
+    },
+    "layer_2_digital_interface": {
+      "theme": "Dark Mode (macOS)",
+      "window_layout": {
+        "left_panel": "Spotify 'Liked Songs' playlist (dimmed)",
+        "right_panel": "Photo Booth live-preview window (dominant focus)"
+      }
+    },
+    "layer_3_nested_subject_content": {
+      "context": "Inside the Photo Booth window",
+      "environment": "Dim bedroom, off-white wall, rumpled bedding",
+      "lighting_simulation": "Cool screen glow mixed with warm skin tones, deep nocturnal shadows",
+      "subjects": {
+        "shared_attributes": [
+          "Oversized black hoodies",
+          "Hoods pushed back (faces fully visible)",
+          "Reclining pose",
+          "Looking at screen"
+        ],
+        "subject_a_guy": {
+          "identity_target": "reference_image_male.jpg",
+          "action": "Holding phone in right hand with clear reflective case",
+          "position": "Right/Center"
+        },
+        "subject_b_girl": {
+          "identity_target": "reference_image_female.jpg",
+          "action": "Resting closely beside Subject A",
+          "position": "Left/Center"
+        }
+      }
+    }
+  },
+  "prompt_assembly": {
+    "positive_prompt": "Hyper-realistic downward shot of a MacBook screen. The screen surface has visible dust, pixel grid, and reflection. The screen displays a Photo Booth window showing a couple in a dark room. [Subject Descriptions]. They are wearing black hoodies. The lighting is low-key, candid, nocturnal, blue-ish screen glow. High fidelity, raw photo, unedited.",
+    "negative_prompt": "vector art, screenshot, flat digital image, clean glass, perfect screen, daylight, bright studio lights, cartoon, 3d render, painting, watermark"
+  },
+  "identity_preservation_settings": {
+    "strictness_level": "CRITICAL",
+    "methodology": {
+      "face_restoration": false,
+      "note": "Disable generic face restorers (CodeFormer) to avoid 'plastic' look. Use IP-Adapter.",
+      "control_net_stack": [
+        {
+          "unit": "ControlNet_Tile",
+          "weight": 0.4,
+          "purpose": "To maintain the text/interface sharpness"
+        },
+        {
+          "unit": "IP-Adapter_FaceID_Plus",
+          "weight": 0.95,
+          "region_mask": "Photo Booth Window Area Only",
+          "purpose": "To force exact facial identity match for both subjects"
+        }
+      ]
+    }
+  },
+  "rendering_parameters": {
+    "sampler": "DPM++ 3M SDE Exponential",
+    "steps": 40,
+    "cfg_scale": 5.5,
+    "denoising_strength": 0.35
+  }
+}
+```
+
+### Case 44: [Casual Athletic Mirror Selfie](https://x.com/gaucheai/status/1996184483343520186) (by [@gaucheai](https://x.com/gaucheai))
+
+| Output |
+|:---:|
+| <img src="images/case44_1_result.webp" width="200" alt="case44_1_result"> |
+
+**input:** Need to modify part of the prompt yourself
+
+**prompt:**
+
+```json
+{
+  "subject": {
+    "description": "Young woman taking bathroom mirror selfie, innocent doe eyes but the outfit tells another story",
+    "mirror_rules": "facing mirror, hips slightly angled, close to mirror filling frame",
+    "age": "early 20s",
+    
+    "expression": {
+      "eyes": "big innocent doe eyes looking up through lashes, 'who me?' energy",
+      "mouth": "soft pout, lips slightly parted, maybe tiny tongue touching corner",
+      "brows": "soft, slightly raised, faux innocent",
+      "overall": "angel face but devil body, the contrast is the whole point"
+    },
+    
+    "hair": {
+      "color": "platinum blonde",
+      "style": "messy bun or claw clip, loose strands framing face, effortless"
+    },
+    
+    "body": {
+      "waist": "tiny",
+      "ass": "round, full, fabric of shorts riding up and clinging between cheeks, every curve visible through thin athletic material",
+      "thighs": "thick, soft, shorts barely containing"
+    },
+    
+    "clothing": {
+      "top": {
+        "type": "ULTRA mini crop tee",
+        "color": "yellow",
+        "graphic": "single BANANA logo/graphic",
+        "fit": "barely containing chest, fabric stretched tight, ends just below, shows full stomach"
+      },
+      "bottom": {
+        "type": "tight tennis skort or athletic booty shorts",
+        "color": "white",
+        "material": "thin stretchy athletic fabric",
+        "fit": "vacuum tight, riding up, clinging between cheeks, fabric creases visible, leaving nothing to imagination"
+      }
+    },
+    
+    "face": {
+      "features": "pretty - big eyes, small nose, full lips",
+      "makeup": "minimal, natural, lip gloss, no-makeup makeup"
+    }
+  },
+
+  "accessories": {
+    "headwear": {
+      "type": "Goorin Bros cap",
+      "details": "black with animal patch, worn backwards or tilted"
+    },
+    "headphones": {
+      "type": "over-ear white headphones",
+      "position": "around neck"
+    },
+    "device": {
+      "type": "iPhone",
+      "details": "visible in mirror, held at chest level"
+    }
+  },
+
+  "photography": {
+    "camera_style": "casual iPhone mirror selfie, NOT professional",
+    "quality": "iPhone camera - good but not studio, realistic social media quality",
+    "angle": "eye-level, straight on mirror",
+    "shot_type": "3/4 body, close to mirror",
+    "aspect_ratio": "9:16 vertical",
+    "texture": "natural, slightly grainy iPhone look, not over-processed"
+  },
+
+  "background": {
+    "setting": "regular apartment bathroom",
+    "style": "normal NYC apartment bathroom, not luxury",
+    "elements": [
+      "white subway tile walls",
+      "basic bathroom mirror with good lighting above",
+      "simple white sink vanity",
+      "toiletries visible - skincare bottles, toothbrush holder",
+      "towel hanging on hook",
+      "maybe shower curtain edge visible",
+      "small plant on counter"
+    ],
+    "atmosphere": "real bathroom, lived-in, normal home",
+    "lighting": "good vanity lighting above mirror - bright, even, flattering but not studio"
+  },
+
+  "vibe": {
+    "energy": "innocent face + sinful body = the whole game",
+    "mood": "just got ready for tennis but making content first, 'what?' expression while wearing basically nothing",
+    "contrast": "doe eyes + ass eating the shorts = lethal",
+    "caption_energy": "'tennis anyone? 🍌' or 'running late oops'"
+  }
+}
+```
+
+### Case 43: [Luxury Supercar Showroom Portrait](https://x.com/YaseenK7212/status/1994082290129891340) (by [@YaseenK7212](https://x.com/YaseenK7212))
+
+| Input | Output |
+|:---:|:---:|
+| <img src="images/case43_1_original.webp" width="200" alt="case43_1_original"> | <img src="images/case43_1_result.webp" width="200" alt="case43_1_result"> |
+
+**input:** Need to upload a reference image
+
+**prompt:**
+
+```json
+{
+  "prompt": {
+    "reference_photo": "Use the uploaded reference photo. Do not change the Subject’s facial features. The Subject must look 1000% identical to the uploaded images.",
+    "scene": {
+      "setting": "sleek, dimly lit luxury showroom",
+      "subject_position": "seated slightly off-center on a bright red beanbag chair",
+      "midground": "vivid red supercar with angular front bumper, sharp air intakes, and glossy black detailing",
+      "background": {
+        "ceiling": "bold, linear black slats running diagonally, creating depth with soft reflections",
+        "right_side": "glossy black croc-embossed duffel bag on speckled concrete floor with diffused light reflections",
+        "left_side": "another red beanbag and subtle racing-themed decor providing controlled pops of color",
+        "mirrored_wall": "reversed silhouettes of showroom signage, racing helmet displays, and stylized circuit-track outlines"
+      }
+    },
+    "subject": {
+      "identity": "must match reference photo with 1000% accuracy",
+      "outfit": {
+        "jacket": "matte black leather jacket with structured seams and folded cuffs",
+        "trousers": "oversized black leather trousers pooling at the ankles",
+        "shoes": "chunky black platform shoes with high-shine surfaces",
+        "posture": "arms crossed in a relaxed, confident pose with subtle reflections emphasizing leather textures"
+      }
+    },
+    "supercar_details": {
+      "lighting_effects": "sculpted hood shifting from deep shadows to bright reflections",
+      "rims": "black rims under aerodynamic fenders",
+      "windshield": "polished surface capturing faint interior reflections"
+    },
+    "micro_details": [
+      "dust speckles on concrete",
+      "tiny reflections across leather surfaces",
+      "faint fingerprints on duffel bag’s glossy texture",
+      "dramatic shadow falloff around shoes"
+    ],
+    "camera_style": "natural, authentic, HD look as if photographed with an iPhone camera",
+    "constraints": {
+      "face_modification": "none allowed — maintain all facial features exactly as in reference image"
+    }
+  }
+}
+```
 
 ### Case 42: [Romantic Cottagecore Couple](https://x.com/YaseenK7212/status/1992636484562903443) (by [@YaseenK7212](https://x.com/YaseenK7212))
 
